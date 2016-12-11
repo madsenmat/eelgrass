@@ -1,0 +1,63 @@
+---
+title: "Eelgrass_Stats"
+author: "Matt Madsen"
+date: "December 11, 2016"
+output: github_document
+---
+
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(reshape2)
+library(lubridate)
+library(viridis)
+library(data.table)
+library(forcats)
+library(RColorBrewer)
+```
+
+#Load all Data, pull out information we want. 
+```{r}
+invert_all <- read_csv("CountNormalizedEelgrassCompiledDateChange.csv")
+invert_all$date <- as.Date(invert_all$date, format = "%d-%h-%y")
+invert_all_comp <- invert_all %>%
+     filter(comp == 1)
+
+invert_all_comp$eel <- as.numeric(invert_all_comp$eel)
+
+invert_all_comp <- invert_all_comp %>% 
+  mutate(rel_abun_per = rel_abun*100) 
+
+#change Eelgrass
+
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 1, "Eel", eel))
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 0, "No_Eel", eel))
+
+#join sz and orgnsm
+invert_all_comp <- invert_all_comp %>% 
+  unite("sz_orgnsm", sz_frac, orgnsm, sep = "_")
+
+#Renames Column from Eel to Habitat
+invert_all_comp <- rename(invert_all_comp, habitat = eel)
+
+invert_all_digested <- invert_all_comp %>% 
+  select(region, date, set, habitat, Paired, sz_orgnsm, count, rel_abun, rel_abun_per)
+
+
+write_csv(invert_all_digested, "eelgrass_digested.csv")
+```
+
+
+#Summarize Data for mean across the regions.
+
+```{r}
+(invert_mean <- invert_all_digested %>% 
+  select(region, habitat, rel_abun_per, sz_orgnsm, count) %>% 
+   group_by(region, habitat, sz_orgnsm) %>% 
+   summarise(mean_abun_per = mean(rel_abun_per), n= n_distinct(rel_abun_per), total= sum(count)))
+```
+
+
