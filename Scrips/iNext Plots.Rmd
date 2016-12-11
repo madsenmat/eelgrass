@@ -1,0 +1,134 @@
+---
+output: github_document
+---
+
+#Changing Data to work for iNext Package
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(reshape2)
+library(lubridate)
+library(viridis)
+library(data.table)
+library(forcats)
+library(iNEXT)
+library(RColorBrewer)
+```
+
+
+```{r}
+
+
+invert_all <- read_csv("countnormalizedeelgrasscompileddatechange.csv")
+
+#converts date to good format 
+invert_all$date <- as.Date(invert_all$date, format = "%d-%h-%y")
+
+invert_all$date<-format(invert_all$date, format="%m-%d")
+
+#filter out all completed 
+invert_all_comp <- invert_all %>%
+     filter(comp == 1)
+
+#rewrites Habitat as numeric
+invert_all_comp$eel <- as.numeric(invert_all_comp$eel)
+
+#changes habitat from numeric to character                            
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 1, "Eel", eel))
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 0, "NonEel", eel))
+
+
+
+#Renames Eel 
+invert_all_comp <- rename(invert_all_comp, Habitat = eel)
+
+```
+
+
+Want list of Sites and then want to get them horizontal. Like I already have for Brian.... Check baby... Including dates, yes but we are going to sum for dates for region and habitat. Yes. 
+
+Want to have column headings as assemblages, Individual‐based abundance data (datatype="abundance"): Input data for each assemblage/site include samples species abundances in an empirical sample of n individuals (“reference sample”). When there are N assemblages, input data consist of an S by N abundance matrix, or N lists of species abundances.
+
+
+```{r results = 'asis'}
+#Need to sum up species counts for each habitat.
+invert_all_comp <- summarise(group_by(invert_all_comp, region, Habitat, orgnsm), sumcount =sum(act_count))
+
+#Put habitat and regions together
+invert_all_comp <- invert_all_comp %>% 
+  unite("Site", region, Habitat, sep = "_")
+
+#dataframe so species IDs are now in rows and Habitat in columns
+hab_cols <- invert_all_comp %>% 
+  spread(Site, sumcount)
+
+
+
+orgnsm_cols <- invert_all_comp %>% 
+  spread(orgnsm, sumcount)
+
+#set species names to row names in hab_cols 
+
+hab_col_rem <- (hab_cols[,c(-1)])
+round(hab_col_rem,0)
+class(hab_col_rem)
+
+hab_col_rem[is.na(hab_col_rem)] <- 0
+
+
+hab_col_rem_list <- as.list(hab_col_rem)
+
+bedwell <- as.list(hab_col_rem[,1:2])
+fraser <- as.list(hab_col_rem[,3:4])
+qual <- as.list(hab_col_rem[,7:8])
+koeye <- as.list(hab_col_rem[,5:6])
+tahsis <- as.list(hab_col_rem[,9:10])
+
+iNEXT(hab_col_rem_list, q=2, datatype="abundance")
+
+
+bed <- iNEXT(bedwell, q=c(0),  datatype="abundance",nboot = 100)
+ggiNEXT(bed, type=1, color.var = "site") +  theme_bw(base_size=18) + theme(legend.position="bottom", legend.title=element_blank())
+ggsave("sr_bed.png")
+fra <- iNEXT(fraser, q=0,  datatype="abundance",nboot = 100)
+ggiNEXT(fra, type=1, color.var = "site") +  theme_bw(base_size=18) + theme(legend.position="bottom", legend.title=element_blank()) 
+ggsave("sr_fraser.png")
+qua <- iNEXT(qual, q=0,  datatype="abundance",nboot = 100)
+ggiNEXT(qua, type=1, color.var = "site") +  theme_bw(base_size=18) + theme(legend.position="bottom", legend.title=element_blank())
+ggsave("sr_qual.png")
+koe <- iNEXT(koeye, q=0,  datatype="abundance",nboot = 100)
+ggiNEXT(koe, type=1, color.var = "site") +  theme_bw(base_size=18) + theme(legend.position="bottom", legend.title=element_blank())
+ggsave("sr_koeye.png")
+tah <- iNEXT(tahsis, q=0,  datatype="abundance",nboot = 100)
+ggiNEXT(tah, type=1, color.var = "site") +  theme_bw(base_size=18) + theme(legend.position="bottom", legend.title=element_blank())
+ggsave("sr_tahsis.png")
+
+
+
+
+
+#final product is matrix of species counts aggregated by habitat
+
+#class(adj_qual2)<-"numeric"
+
+#Reg.rar<-iNEXT(adj_qual2,q=0,datatype = "abundance",nboot=1000)
+#ggiNEXT(Reg.rar) + theme_bw()
+
+```
+
+
+```{r}
+
+invert_all_comp %>% 
+sweep(invert_all_comp, 1, rowSums(invert_all_comp), '/')
+```
+
+
+
+```{r}
+
+```
+

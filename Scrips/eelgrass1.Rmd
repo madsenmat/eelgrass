@@ -1,0 +1,589 @@
+---
+title: "Eelgrass Graphs"
+author: "Matt Madsen"
+date: "October 29, 2016"
+output: github_document
+---
+
+
+Things to Do
+
+1. All Sites Abundance by Eel and Non Eel
+2. All Sites by Size Fraction (maybe do an add on to the above graphs, like weighted mean with geom_smooth, 2nd axis)
+3. Josie iNext package by region, by date, over all regions 
+4. Vegan to do nMDS with bray curtis -> default in vegan 
+5. Cluster want to transform grouping with log transtorm data abundances
+
+Transfer all to RA.
+
+Species Richness
+
+Within and between 
+
+Link to Diet Work 
+
+Histogram with what you get and what are in diet. 
+
+Historgram numbers by size. 
+
+Separate by size class 
+
+top column is species 
+
+row is 
+
+Load Packages
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(reshape2)
+library(lubridate)
+library(viridis)
+library(data.table)
+library(forcats)
+library(RColorBrewer)
+```
+
+#Load all Data
+```{r}
+invert_all <- read_csv("eelgrasscompileddatechange.csv")
+invert_all$date <- as.Date(invert_all$date, format = "%d-%h-%y")
+invert_all_comp <- invert_all %>%
+     filter(comp == 1)
+
+invert_all_comp$eel <- as.numeric(invert_all_comp$eel)
+
+invert_all_comp <- invert_all_comp %>% 
+  mutate(rel_abun_per = rel_abun*100) 
+
+#non working code 
+
+invert_all_comp %>% 
+  group_by(region, date, orgnsm, set) %>% 
+  mutate(rel_abun_new = count/sum(count)) %>% 
+  select(rel_abun_new, rel_abun, date, orgnsm,count) %>% 
+  print(n=20)
+
+
+```
+
+#Put into respective regions for plots 
+```{r}
+
+(invert_all_comp_reg <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 1, "Eelgrass", eel)))
+
+invert_all_comp_reg <- invert_all_comp_reg %>% 
+  mutate(eel = ifelse(eel == 0, "NonEelgrass", eel))
+
+tahsis <- invert_all_comp %>% 
+  filter(region == "Tahsis")
+qual <- invert_all_comp %>% 
+  filter(region == "Qualicum")
+fraser <- invert_all_comp %>% 
+  filter(region == "Fraser")
+bed <- invert_all_comp %>% 
+  filter(region == "Bedwell")
+koeye <- invert_all_comp %>% 
+  filter(region == "Koeye")
+
+#groups together replicates
+
+tahsis1 <- tahsis %>% group_by(date, orgnsm, eel) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+qual1 <- qual %>% group_by(date, orgnsm, eel) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+fraser1 <- fraser %>% group_by(date, orgnsm, eel) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+bed1 <- bed %>%  group_by(date, orgnsm, eel) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+koeye1 <- koeye %>% group_by(date, orgnsm, eel) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+
+#arranges to have top to bottom 
+
+tahsis1 <- tahsis1 %>% 
+  select (eel, rel_abun_per, orgnsm, date) %>% 
+  arrange(desc(rel_abun_per)) 
+
+
+qual1 <- qual1 %>% 
+  select (eel, rel_abun_per, orgnsm, date) %>% 
+  arrange(desc(rel_abun_per))
+
+bed1 <- bed1 %>% 
+  select (eel, rel_abun_per, orgnsm, date) %>% 
+  arrange(desc(rel_abun_per))
+
+fraser1 <- fraser1 %>% 
+  select (eel, rel_abun_per, orgnsm, date) %>% 
+  arrange(desc(rel_abun_per))
+
+koeye1 <- koeye1 %>% 
+  select (eel, rel_abun_per, orgnsm, date) %>% 
+  arrange(desc(rel_abun_per))
+```
+
+
+
+
+Make colors for all plots 
+
+```{r}
+coul <- brewer.pal(9, "Set1")
+coul <- colorRampPalette(coul)(40)
+
+names <- unique(invert_all_comp$orgnsm)           
+
+names(coul) <- levels(invert_all_comp$orgnsm)
+
+group.colors <- c(Cladoceran = "#E41A1C", Phyllodocida = "#C02E3C", Appendicularia = "#9D435C", Harpac =  "#79577C",  Calanoid = "#566C9C", Brachyura = "#377FB5", Barnacle = "#3C899E", Gammarid = "#409388", Mysida = "#459D71", Cumacea = "#49A75A", Cyclopoid = "#50AA4E", Cnetophora = "#609660", Echinoderm = "#6F8273", Gastropod = "#7E6E85", Valvifera ="#8E5A97", UK4 = "#9F5196", Natantia = "#B55B75", Ostracod = "#CA6553", UK16 = "#DF6F32", UK21 = "#F47910", UK9 = "#FF8C05", UK10 = "#FFA60F", UK13 = "#FFC01A", Caprellidea = "#FFDA24", Fish_Larvae = "#FFF52F", UK11 = "#F3E931", UK12 = "#AC94A0", UK7 = "#E1C62F", Cardidae = "#CFA42D", UK19 = "#BC812A", Bivalvia = "#AA5E28", Pleuronecti = "#B25C3F", UK15 = "#C3655E", UK8 =  "#D36E7D", Euphausiid = "#E4779C", Hyperiidea = "#F47FBB", UK25 = "#E685B8", UK24 = "#D28AB0", UK27 = "#BF8FA8")
+
+```
+
+
+## Plot of Non Eelgrass and Eelgrass with Different Organisms
+
+Plot Tahsis
+```{r}
+cols <- c("white", "black") 
+colors <- 
+numlabs <- c('No Eel', 'Eel')
+numcols <- as.numeric(n_distinct(tahsis$orgnsm))
+ncols = as.numeric(n_distinct(tahsis$date))
+
+
+p <- ggplot(tahsis1, aes(x= eel, y= (rel_abun_per), fill= fct_reorder(orgnsm, rel_abun_per, .desc= TRUE), color = factor(eel))) +
+   geom_bar(stat = "identity", position = "dodge") + 
+  facet_wrap("date", ncol = ncols) +
+     scale_color_manual(values = cols, labels = c("Non Eelgrass", "Eelgrass"), guide = FALSE)  +
+    scale_fill_manual(values = group.colors) +
+   scale_x_continuous(breaks= c(0,1), labels= numlabs) +
+  scale_y_sqrt()+
+ theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  labs(x = NULL, y = "Relative Abundance (%)") + 
+  ggtitle("Tahsis") 
+
+p
+ggsave("Eelgrasstahsis.png", p)
+```
+
+Fraser Plot
+
+```{r}
+numcols <- as.numeric(n_distinct(fraser1$orgnsm))
+ncols = as.numeric(n_distinct(fraser1$date))
+
+
+p <- ggplot(fraser1, aes(x= eel, y= (rel_abun_per), fill= fct_reorder(orgnsm, rel_abun_per, .desc= TRUE), color = factor(eel))) +
+   geom_bar(stat = "identity", position = "dodge") + 
+  facet_wrap("date", ncol = 4) +
+     scale_color_manual(values = cols, labels = c("Non Eelgrass", "Eelgrass"), guide = FALSE)  +
+    scale_fill_manual(values = group.colors) +
+   scale_x_continuous(breaks= c(0,1), labels= numlabs) +
+  scale_y_sqrt()+
+ theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  labs(x = NULL, y = "Relative Abundance (%)") + 
+  ggtitle("Fraser") 
+
+p
+ggsave("EelgrassFraser.png", p)
+```
+
+Qualicum Plot
+
+```{r}
+numcols <- as.numeric(n_distinct(qual1$orgnsm))
+ncols = as.numeric(n_distinct(qual1$date))
+
+
+p <- ggplot(qual1, aes(x= eel, y= (rel_abun_per), fill= fct_reorder(orgnsm, rel_abun_per, .desc= TRUE), color = factor(eel))) +
+   geom_bar(stat = "identity", position = "dodge") + 
+  facet_wrap("date", ncol = 4) +
+     scale_color_manual(values = cols, labels = c("Non Eelgrass", "Eelgrass"), guide = FALSE)  +
+    scale_fill_manual(values = group.colors) +
+   scale_x_continuous(breaks= c(0,1), labels= numlabs) +
+  scale_y_sqrt()+
+ theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  labs(x = NULL, y = "Relative Abundance (%)") + 
+  ggtitle("Qualicum") 
+
+p
+ggsave("EelgrassQual.png", p)
+```
+
+Bedwell Plots
+
+```{r}
+numcols <- as.numeric(n_distinct(bed1$orgnsm))
+ncols = as.numeric(n_distinct(bed1$date))
+
+
+p <- ggplot(bed1, aes(x= eel, y= (rel_abun_per), fill= fct_reorder(orgnsm, rel_abun_per, .desc= TRUE), color = factor(eel))) +
+   geom_bar(stat = "identity", position = "dodge") + 
+  facet_wrap("date", ncol = ncols) +
+   scale_color_manual(values = cols, labels = c("Non Eelgrass", "Eelgrass"), guide = FALSE) +
+    scale_fill_manual(values = group.colors) +
+   scale_x_continuous(breaks= c(0,1), labels= numlabs) +
+  scale_y_sqrt()+
+ theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  labs(x = NULL, y = "Relative Abundance (%)") + 
+  ggtitle("Bedwell") 
+
+p
+ggsave("EelgrassBedwell.png", p)
+```
+
+Koeye Plot 
+
+```{r}
+numcols <- as.numeric(n_distinct(koeye1$orgnsm))
+ncols = as.numeric(n_distinct(koeye1$date))
+
+
+p <- ggplot(koeye1, aes(x= eel, y= (rel_abun_per), fill= fct_reorder(orgnsm, rel_abun_per, .desc= TRUE), color = factor(eel))) +
+   geom_bar(stat = "identity", position = "dodge") + 
+  facet_wrap("date", ncol = ncols) +
+    scale_color_manual(values = cols, labels = c("Non Eelgrass", "Eelgrass"), guide = FALSE)  +
+    scale_fill_manual(values = group.colors) +
+   scale_x_continuous(breaks= c(0,1), labels= numlabs) +
+  scale_y_sqrt()+
+ theme_bw() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  labs(x = NULL, y = "Relative Abundance (%)") + 
+  ggtitle("Koeye") 
+
+p
+ggsave("Eelgrasskoeye.png", p)
+```
+
+
+#Salmon Plots 
+```{r}
+salmon <- invert_all_comp %>% 
+  filter(Paired == 1)
+
+salmon.fras <- salmon %>% 
+  filter(region == "Fraser")
+
+salmon.qual <- salmon %>% 
+  filter(region == "Qualicum")
+
+salmon.koeye <- salmon %>% 
+  filter(region == "Koeye")
+
+
+
+```
+
+
+#Seeting Up Fraser Data 
+```{r}
+#readjust to allow only three groupings 1, 2, greater than 4 
+
+
+salmon.fras$sz_frac <- as.numeric(salmon.fras$sz_frac)
+
+salmon.fras1 <- salmon.fras %>% 
+  select(date, orgnsm, eel, count, sz_frac) %>% 
+  group_by(date, eel, orgnsm, sz_frac) %>% 
+  summarise(mean_count= mean(count))
+
+salmon.fras1eel <- salmon.fras1 %>% 
+  filter(eel == 1)
+
+salmon.fras1noeel <- salmon.fras1 %>% 
+  filter(eel != 1)
+
+
+salmon.fras1eel$sz_frac <- as.character(salmon.fras1eel$sz_frac)
+salmon.fras1noeel$sz_frac <- as.character(salmon.fras1noeel$sz_frac)
+
+ salmon.fras1eel<- salmon.fras1eel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+ 
+  salmon.fras1noeel<- salmon.fras1noeel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+```
+
+####Plot for Fraser Salmon Eelgrass
+```{r}
+p1 <- ggplot(salmon.fras1eel, aes(x= sz_frac, y = (mean_count), fill = fct_reorder(orgnsm, mean_count, .desc= TRUE))) +
+   geom_bar(stat = "identity", position = 'stack') + 
+  facet_wrap("date") +
+  theme(axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2))+
+              theme_bw() +
+  scale_y_sqrt()+
+   scale_fill_manual(values = group.colors)+
+  scale_x_discrete(labels= c("<1", "1-4")) +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  ggtitle("Fraser Salmon Eelgrass") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("frasersalmoneelgrass.png")
+p1
+
+```
+
+###Fraser Salmon Non Eelgrass
+```{r}
+p1 <- ggplot(salmon.fras1noeel, aes(x= sz_frac, y = mean_count, fill = fct_reorder(orgnsm, mean_count, .desc= TRUE)))+
+   geom_bar(stat = "identity", position = 'stack') + 
+  facet_wrap("date") +
+  theme(axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2))+
+              theme_bw() +
+  scale_y_sqrt()+
+   scale_fill_manual(values = group.colors)+
+  scale_x_discrete(labels= c("<1", "1-4", "10")) +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top", 
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) + 
+  ggtitle("Fraser Salmon No Eelgrass ") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("frasersalmonnoeelgrass.png")
+p1
+
+```
+
+### Qualicum Salmon Plots 
+
+
+#####Setting up Data again
+```{r}
+salmon.qual$sz_frac <- as.numeric(salmon.qual$sz_frac)
+
+salmon.qual1 <- salmon.qual %>% 
+  select(date, orgnsm, eel, count, sz_frac) %>% 
+  group_by(date, eel, orgnsm, sz_frac) %>% 
+  summarise(mean_count= mean(count))
+
+salmon.qual1eel <- salmon.qual1 %>% 
+  filter(eel == 1) %>% arrange(sz_frac)
+
+salmon.qual1noeel <- salmon.qual1 %>% 
+  filter(eel != 1)
+
+salmon.qual1eel<- salmon.qual1eel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+ 
+  salmon.qual1noeel<- salmon.qual1noeel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+#salmon.qual1eel$sz_frac <- as.character(salmon.qual1eel$sz_frac)
+#salmon.qual1noeel$sz_frac <- as.character(salmon.qual1noeel$sz_frac)
+```
+
+####Plot for Qualicum Salmon Eelgrass
+```{r}
+p1 <- ggplot(salmon.qual1eel, aes(x=factor(sz_frac), y = mean_count, fill = fct_reorder(orgnsm, mean_count, .desc= TRUE))) +
+   geom_bar(stat = "identity", position = 'stack') + 
+  facet_wrap("date") +
+              theme_bw() +
+  scale_y_sqrt()+
+   scale_fill_manual(values = group.colors)+
+  scale_x_discrete(labels= c("<1", "1-4", "4-8", "8", "8-12", "12-16", "16-20", "20-24", "24-28"))+
+ theme()+
+  theme(panel.grid.major.x = element_blank(),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2),
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) +
+  ggtitle("Qualicum Salmon Eelgrass") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("QualicumSalmonEelgrass.png")
+p1
+
+```
+
+###Qualicum Salmon Non Eelgrass
+```{r}
+p1 <- ggplot(salmon.qual1noeel, aes(x=factor(sz_frac), y = mean_count, fill = fct_reorder(orgnsm, mean_count, .desc= TRUE))) +
+   geom_bar(stat = "identity", position = 'stack') + 
+  facet_wrap("date") +
+              theme_bw() +
+  scale_y_sqrt()+
+   scale_fill_manual(values = group.colors) +
+  scale_x_discrete(labels= c("<1", "1-4", "4-8", "8-12", "12-16", "20-24", "28-32"))+
+ theme()+
+  theme(panel.grid.major.x = element_blank(),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2),
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) +
+  ggtitle("Qualicum Salmon No Eelgrass") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("QualicumSalmonNoEelgrass.png")
+p1
+```
+
+
+###Koeye Salmon Eelgrass
+
+#####Setting up Data again
+```{r}
+salmon.koeye$sz_frac <- as.numeric(salmon.koeye$sz_frac)
+
+salmon.koeye1 <- salmon.koeye %>% 
+  select(date, orgnsm, eel, count, sz_frac) %>% 
+  group_by(date, eel, orgnsm, sz_frac) %>% 
+  summarise(mean_count= mean(count))
+
+salmon.koeye1eel <- salmon.koeye1 %>% 
+  filter(eel == 1) %>% arrange(sz_frac)
+
+salmon.koeye1noeel <- salmon.koeye1 %>% 
+  filter(eel != 1)
+
+salmon.koeye1eel<- salmon.koeye1eel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+ 
+  salmon.koeye1noeel<- salmon.koeye1noeel %>% 
+  select (eel, mean_count, orgnsm, date, sz_frac) %>% 
+  arrange(desc(mean_count)) 
+#salmon.qual1eel$sz_frac <- as.character(salmon.qual1eel$sz_frac)
+#salmon.qual1noeel$sz_frac <- as.character(salmon.qual1noeel$sz_frac)
+```
+
+###Eelgrass
+
+#Koeye Eelgrass
+```{r}
+p1 <- ggplot(salmon.koeye1eel, aes(x=factor(sz_frac), y = mean_count, fill = fct_reorder(orgnsm, mean_count, .desc= TRUE))) +
+   geom_bar(stat = "identity", position = 'stack') + 
+  facet_wrap("date") +
+              theme_bw() +
+   scale_fill_manual(values = group.colors)+
+  scale_x_discrete(labels= c("<1", "1-4", "4-8", "12-16"))+
+ theme()+
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2),
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) +
+  ggtitle("Koeye Salmon Eelgrass") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("KoeyeSalmonEelgrass.png")
+p1
+
+```
+
+
+##No Eelgrass Koeye
+```{r}
+p1 <- ggplot(salmon.koeye1noeel, aes(x=factor(sz_frac), y = mean_count, fill = fct_reorder(orgnsm, mean_count, .desc= TRUE))) +
+   geom_bar(stat = "identity", position = 'Stack') + 
+  facet_wrap("date") +
+              theme_bw() +
+  scale_y_sqrt()+
+   scale_fill_manual(values = group.colors) +
+  scale_x_discrete(labels= c("<1", "1-4", "8-12", "20-24", "28-32"))+
+ theme()+
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey50"),
+        strip.text.x = element_text(size = 10, colour = "black", face = "bold"),
+        plot.title = element_text(size = rel(1.5), face = "bold", vjust = 1.5),
+        axis.title = element_text(face = "bold"),
+        legend.position = "top",
+        axis.text.x=element_text(angle= 300, vjust = 0.75, hjust= 0.2),
+        legend.title = element_blank(),
+        legend.key.size = unit(0.4, "cm"),
+        legend.key = element_rect(fill = "black")) +
+  ggtitle("Koeye Salmon No Eelgrass") +
+  labs(x = "Size Fraction (mm)", y = "Abundance")
+
+ggsave("KoeyeSalmonNoEelgrass.png")
+p1
+```
+
+```{r}
+
+```
+
+
+

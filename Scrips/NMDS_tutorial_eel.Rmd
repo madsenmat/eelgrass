@@ -1,0 +1,250 @@
+---
+title: "vegan_tutorial"
+author: "Matt Madsen"
+date: "November 2, 2016"
+output: html_document
+---
+
+```{r}
+ 
+
+library(vegan)
+library(MASS)
+library(ggplot2)
+library(tidyverse)
+library(reshape2)
+library(lubridate)
+library(viridis)
+library(data.table)
+library(forcats)
+library(RColorBrewer)
+library(png)
+
+data(varespec)
+
+vare.dis <- vegdist(varespec)
+vare.mds0 <- isoMDS(vare.dis)
+
+#fit of plot
+stressplot(vare.mds0, vare.dis)
+ordiplot(vare.mds0, type = "t")
+
+
+#very powerful, multiple iterations
+
+vare.mds <- metaMDS(varespec, trace = FALSE)
+vare.mds
+
+plot(vare.mds, type = "t")
+
+```
+
+
+
+
+```{r}
+#loads data 
+invert_all <- read_csv("eelgrasscompileddatechange.csv")
+
+#converts date to good format 
+invert_all$date <- as.Date(invert_all$date, format = "%d-%h-%y")
+
+invert_all$date<-format(invert_all$date, format="%m-%d")
+
+#filter out all completed 
+invert_all_comp <- invert_all %>%
+     filter(comp == 1)
+
+#rewrites Habitat as numeric
+invert_all_comp$eel <- as.numeric(invert_all_comp$eel)
+
+#changes habitat from numeric to character                            
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 1, "Eel", eel))
+invert_all_comp <- invert_all_comp %>% 
+  mutate(eel = ifelse(eel == 0, "NonEel", eel))
+
+#calculates relative abundance for each 
+invert_all_comp <- invert_all_comp %>% 
+  mutate(rel_abun_per = rel_abun*100) 
+
+#Renames Eel 
+invert_all_comp <- rename(invert_all_comp, Habitat = eel)
+```
+
+```{r}
+
+# Unites columns from 3 (region, habitat, date) into 1 to allow single unique identifier
+invert_all_comp$regions <- paste(invert_all_comp$region, invert_all_comp$Habitat)
+invert_all_comp[, "regions"] <- invert_all_comp$regions
+invert_all_comp$regions <- paste(invert_all_comp$regions, invert_all_comp$date)
+invert_all_comp[, "regions"] <- invert_all_comp$regions
+
+# Unites organsism and size fraction into 1. 
+invert_all_comp$sz_orgnsm <-paste(invert_all_comp$sz_frac, invert_all_comp$orgnsm)
+invert_all_comp[, "sz_orgnsm"] <- invert_all_comp$sz_orgnsm
+
+#selects only 3 columns we care about
+a <- invert_all_comp %>%
+  select(regions,sz_orgnsm,rel_abun_per) 
+
+#groups together replicates and takes their mean, otherwise numerous repeats, could also take set and write that into the unique identifier (4 into 1) if need be. For now going with this. Col_site will have sites as column headings. 
+col_sites <- a %>% group_by(regions, sz_orgnsm) %>% 
+  summarise(rel_abun_per= mean(rel_abun_per))
+
+#writes to another col_orgnsm which will have organism as the column headings. 
+col_orgnsm <- col_sites
+
+#spreads by region
+col_sites <- col_sites %>% 
+  spread(regions, rel_abun_per)
+
+#spreads by orgnsm 
+ col_orgnsm <- col_orgnsm %>% 
+  spread(sz_orgnsm, rel_abun_per)
+
+#remove orgnsm
+col_sites<- subset(col_sites, select = -(sz_orgnsm))
+
+#remove regions
+col_orgnsm <- subset(col_orgnsm, select = -(regions))
+ #log both for Brian CSB 
+col_orgnsm_log <- log(col_orgnsm)
+col_sites_log <- log(col_sites)
+
+#change na to 0 
+col_sites[is.na(col_sites)] <- 0
+col_orgnsm[is.na(col_orgnsm)] <- 0
+col_sites_log[is.na(col_sites_log)] <- 0
+col_orgnsm_log[is.na(col_orgnsm_log)] <- 0
+
+#save meta data
+meta <- col_sites %>% select(sz_orgnsm)
+meta <- col_orgnsm %>% select(regions)
+
+
+
+write_csv(col_sites, "eel_col-sites.csv")
+write_csv(col_orgnsm, "eel_col-orgnsm.csv")
+write_csv(col_orgnsm_log, "eel_col-orgnsm-log.csv")
+write_csv(col_sites_log, "eel_col-sites-log.csv")
+
+```
+
+```{r}
+#runs MDS, call variable to look up stats and components, sqrts values, uses Bray-Curtis Dissimalarity 
+
+col_sites.mds <- metaMDS(col_sites, trace = FALSE)
+
+col_orgnsm.mds <- metaMDS(col_orgnsm, trace = FALSE)
+
+#set up coloring 
+
+
+png(filename="NMDSporgo.png", 
+    units="in", 
+    width=12, 
+    height=10, 
+    pointsize=12, 
+    res=72)
+col <- ordiplot(col_orgnsm.mds, type = "p") +
+  title("Organism_Col_Points")
+dev.off()
+
+png(filename="NMDStorgo.png", 
+    units="in", 
+    width=12, 
+    height=10, 
+    pointsize=12, 
+    res=72)
+q <- ordiplot(col_orgnsm.mds, type = "text")+
+  title("Organism_Col_Text")
+dev.off()
+
+png(filename="NMDSpsites.png", 
+    units="in", 
+    width=12, 
+    height=10, 
+    pointsize=12, 
+    res=72)
+p <- ordiplot(col_sites.mds, type = "p") +
+  title("Sites_Col_Points")
+dev.off()
+
+png(filename="NMDStsites.png", 
+    units="in", 
+    width=12, 
+    height=10, 
+    pointsize=12, 
+    res=72)
+p <- p <- ordiplot(col_sites.mds, type = "t") +
+   title("Sites_Col_Text")
+dev.off()
+
+```
+
+
+```{r}
+data(dune, dune.env)
+
+## PCA of the Dune data
+mod <- rda(dune, scale = TRUE)
+
+## plot the PCA
+plot(mod, scaling = 3)
+
+with(dune.env, levels(Use))
+
+```
+
+
+
+
+
+
+
+Excluding Days, just doing by sites
+
+```{r}
+
+
+a <- summarise(group_by(invert_all_comp, region, Habitat, orgnsm), sumcount =sum(count))
+
+a <- a %>% 
+  spread(sz_orgnsm, rel_abun_per)
+
+a$regions <- paste(a$region, a$Habitat)
+
+a[, "regions"] <- a$regions
+
+a <- subset(a, select = -c(region,Habitat) )
+
+
+#make second to check
+b <- a 
+#log values into new nue
+
+a.log <- log(a[,2])
+
+#insert values in 
+b[,2] <- a.log
+
+a <- a %>% 
+  spread(regions, sumcount)
+
+b <- b %>% 
+  spread(regions, sumcount)
+
+a <- subset(a, select = -(orgnsm))
+a[is.na(a)] <- 0
+
+a.mds <- metaMDS(a, trace = FALSE)
+
+a.mds
+
+plot(a.mds, type = "t")
+
+
+```
+
+
