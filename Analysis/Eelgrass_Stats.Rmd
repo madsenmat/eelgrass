@@ -51,13 +51,98 @@ write_csv(invert_all_digested, "eelgrass_digested.csv")
 ```
 
 
-#Summarize Data for mean across the regions.
+#Summarize Data for mean, n and total across the regions for each respective individual and habitat.
 
 ```{r}
+SE <- function(x) sd(x)/sqrt(length(x))
+
 (invert_mean <- invert_all_digested %>% 
   select(region, habitat, rel_abun_per, sz_orgnsm, count) %>% 
-   group_by(region, habitat, sz_orgnsm) %>% 
-   summarise(mean_abun_per = mean(rel_abun_per), n= n_distinct(rel_abun_per), total= sum(count)))
+   group_by(region, sz_orgnsm, habitat) %>% 
+   summarise(mean_abun_per = mean(rel_abun_per), SE = SE(rel_abun_per), n= n_distinct(rel_abun_per), total= sum(count)))
 ```
 
+#Make all NA turn into 0 
+```{r}
+invert_mean[is.na(invert_mean)] <- 0
+```
+#Spread Data Out for Eelgrass and Non Eelgrass
+```{r}
+#set up in nice table to ensure doing right thing
+  spread_mean <- invert_mean %>% 
+  select(region, habitat, mean_abun_per, sz_orgnsm) %>% 
+  spread(habitat,mean_abun_per)
+
+spread_mean[is.na(spread_mean)] <- 0
+
+  spread_SE <- invert_mean %>% 
+  select(region, habitat, SE, sz_orgnsm) %>% 
+  spread(habitat,SE) 
+  
+spread_SE[is.na(spread_SE)] <- 0
+
+  spread_n <- invert_mean %>% 
+  select(region, habitat, n, sz_orgnsm) %>% 
+  spread(habitat,n)
+  
+spread_n[is.na(spread_n)] <- 0
+```
+
+
+
+#Take the difference between Eel and Non Eel, add the n and add the SE. 
+```{r}
+  (spread_mean <- spread_mean %>% 
+  mutate(Hab_diff = Eel - No_Eel) %>% 
+  select(region, sz_orgnsm, Hab_diff))
+  
+  (spread_SE <- spread_SE %>% 
+  mutate(SE_Total = Eel + No_Eel) %>% 
+  select(region, sz_orgnsm, SE_Total))
+
+  (spread_ntot <- spread_n %>% 
+    mutate(n_total= Eel + No_Eel) %>% 
+  select(region, sz_orgnsm, n_total))
+
+  (joined <- full_join(spread_mean,spread_SE))
+
+joined <- joined %>% 
+mutate(upper = Hab_diff + 1.96*SE_Total, lower = Hab_diff - 1.96*SE_Total) %>% 
+  select(Hab_diff, upper, lower)
+
+
+  
+
+
+
+joined_fraser <-  joined %>% filter(region == "Fraser")
+pad <- (data_frame(region= c("Fraser", "Fraser"), Hab_diff= c(NA, NA)))
+
+padded <- full_join(pad, joined_fraser)
+
+#putting into text format 
+spread_fraser <- spread_n %>% filter(region == "Fraser")
+
+new <- spread_fraser[,c(2,3,4)]
+
+middle <- c("", "(n)", "(n)")
+
+new1 <- rbind(middle, new)
+
+top <- c("SizeFraction_Organism","Eelgrass", "Non-Eelgrass" )
+
+frasertext <- rbind(top,new1)
+
+
+```
+
+#Next Steps - Make forest plots
+
+```{r}
+
+png("forestfraser.png", width=8, height=11, units="in", res=300)
+forestfraser <- forestplot(frasertext, padded$Hab_diff, padded$lower, padded$upper, zero= 0, txt_gp= fpTxtGp(cex= 1), col=fpColors(box="royalblue",line="darkblue"), lineheight = "auto", title = "Fraser", xlab= "Difference in Relative Abundance of Eelgrass vs. Non Eelgrass (%)", boxsize = 0.2, hrzl_lines = list("3" = gpar(col="#444444")))
+
+dev.off()
+```
 
