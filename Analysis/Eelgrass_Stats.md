@@ -374,3 +374,174 @@ dev.off()
 
     ## quartz_off_screen 
     ##                 2
+
+Tahsis, spot the function
+=========================
+
+``` r
+#need to into function (x) { all of this stuff, how to return certain parts in a function???, more reading}
+joined_tahsis<-  joined %>% filter(region == "Tahsis") #put in x
+
+#Made larger DataFrame to Pad Dada
+pad <- (data_frame(region= c("tahsis", "tahsis"), Hab_diff= c(NA, NA))) #put in x 
+
+#Padded joined with Fraser
+padded <- full_join(pad, joined_tahsis)
+```
+
+    ## Joining, by = c("region", "Hab_diff")
+
+``` r
+#spread it out
+spread_tahsis <- spread_n %>% filter(region == "Tahsis")
+
+#pulled out needed data, won't break otherwise
+new <- spread_tahsis[,c(2,3,4)]
+
+#middle 
+middle <- c("", "(n)", "(n)")
+
+#make new 
+new1 <- rbind(middle, new)
+
+#add last piece to top
+top <- c("SizeFraction_Organism","Eelgrass", "Non-Eelgrass")
+
+#assemble text 
+tahsistext <- rbind(top,new1)
+```
+
+``` r
+png("foresttahsis.png", width=8, height=11, units="in", res=300)
+
+foresttahsis <- forestplot(tahsistext, padded$Hab_diff, padded$lower, padded$upper,
+                           zero= 0, 
+                           txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.9), ticks = gpar(cex=0.75)), 
+                           col=fpColors(box="royalblue",line="darkblue"), 
+                           lineheight = "auto",
+                           title = "tahsis",
+                           xlab= "Diff. in R.A. of Eel vs. Non Eelgrass (%)",
+                           boxsize = 0.2,
+                           hrzl_lines = list("3" = gpar(col="#444444")), 
+                           is.summary=c(TRUE,TRUE,rep(FALSE,(length(padded$Hab_diff)-2))))
+  dev.off()
+```
+
+    ## quartz_off_screen 
+    ##                 2
+
+Qualicum
+========
+
+``` r
+#need to into function (x) { all of this stuff, how to return certain parts in a function???, more reading}
+joined_Qualicum<-  joined %>% filter(region == "Qualicum") #put in x
+
+#Made larger DataFrame to Pad Dada
+pad <- (data_frame(region= c("Qualicum", "Qualicum"), Hab_diff= c(NA, NA))) #put in x 
+
+#Padded joined with Fraser
+padded <- full_join(pad, joined_Qualicum)
+```
+
+    ## Joining, by = c("region", "Hab_diff")
+
+``` r
+#spread it out
+spread_Qualicum <- spread_n %>% filter(region == "Qualicum")
+
+#pulled out needed data, won't break otherwise
+new <- spread_Qualicum[,c(2,3,4)]
+
+#middle 
+middle <- c("", "(n)", "(n)")
+
+#make new 
+new1 <- rbind(middle, new)
+
+#add last piece to top
+top <- c("SizeFraction_Organism","Eel", "Non-Eel")
+
+#assemble text 
+Qualicumtext <- rbind(top,new1)
+```
+
+``` r
+png("forestqualicum.png", width= 15 , height=20, units="in", res=300)
+
+forestQualicum <- forestplot(Qualicumtext, padded$Hab_diff, padded$lower, padded$upper,
+                           zero= 0, 
+                           txt_gp= fpTxtGp(cex= 1.5, xlab = gpar(cex=2), ticks = gpar(cex=1.5)), 
+                           col=fpColors(box="royalblue",line="darkblue"), 
+                           lineheight = "auto",
+                           title = "Qualicum",
+                           xlab= "Diff. in R.A. of Eel vs. Non Eelgrass (%)",
+                           boxsize = 0.3,
+                           hrzl_lines = list("3" = gpar(col="#444444")), 
+                           is.summary=c(TRUE,TRUE,rep(FALSE,(length(padded$Hab_diff)-2))))
+  dev.off()
+```
+
+    ## quartz_off_screen 
+    ##                 2
+
+Koeye
+=====
+
+``` r
+#need to into function (x) { all of this stuff, how to return certain parts in a function???, more reading}
+joined_koeye<-  joined %>% filter(region == "Koeye") #put in x
+
+#Made larger DataFrame to Pad Dada
+pad <- (data_frame(region= c("Koeye", "Koeye"), Hab_diff= c(NA, NA))) #put in x 
+
+#Padded joined with Fraser
+padded <- full_join(pad, joined_koeye)
+```
+
+    ## Joining, by = c("region", "Hab_diff")
+
+``` r
+#spread it out
+spread_koeye <- spread_n %>% filter(region == "Koeye")
+
+#pulled out needed data, won't break otherwise
+new <- spread_koeye[,c(2,3,4)]
+
+#middle 
+middle <- c("", "(n)", "(n)")
+
+#make new 
+new1 <- rbind(middle, new)
+
+#add last piece to top
+top <- c("SizeFraction_Organism","Eel", "Non-Eel")
+
+#assemble text 
+koeyetext <- rbind(top,new1)
+```
+
+``` r
+png("forestkoeye.png", width= 15 , height=20, units="in", res=300)
+
+forestkoeye <- forestplot(koeyetext, padded$Hab_diff, padded$lower, padded$upper,
+                           zero= 0, 
+                           txt_gp= fpTxtGp(cex= 1.5, xlab = gpar(cex=2), ticks = gpar(cex=1.5)), 
+                           col=fpColors(box="royalblue",line="darkblue"), 
+                           lineheight = "auto",
+                           title = "Koeye",
+                           xlab= "Diff. in R.A. of Eel vs. Non Eelgrass (%)",
+                           boxsize = 0.3,
+                           hrzl_lines = list("3" = gpar(col="#444444")), 
+                           is.summary=c(TRUE,TRUE,rep(FALSE,(length(padded$Hab_diff)-2))))
+  dev.off()
+```
+
+    ## quartz_off_screen 
+    ##                 2
+
+``` r
+  (forestkoeye)
+```
+
+    ## GRID.VP.31::forestplot_margins

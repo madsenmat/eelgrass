@@ -4,7 +4,19 @@ author: "Matt Madsen"
 date: "December 11, 2016"
 output: github_document
 ---
+#Next steps 
 
+1. Add in the highest relative abundances into each table 
+
+2. Clean up plots so they are in line 
+
+3. NMDS Plot 
+
+4. Box Boxplots for each one, reorder by mean 
+
+5. Cluster Analysis
+
+6. Biomass entry as weighting factors. - Take abundance then times by biomass, then take relative biomass. 
 
 ```{r}
 library(ggplot2)
@@ -294,17 +306,19 @@ koeyetext <- rbind(top,new1)
 
 
 ```{r}
-png("forestkoeye.png", width= 15 , height=20, units="in", res=300)
+png("forestkoeye.png", width= 8 , height=11, units="in", res=300)
 
 forestkoeye <- forestplot(koeyetext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
-                           txt_gp= fpTxtGp(cex= 1.5, xlab = gpar(cex=2), ticks = gpar(cex=1.5)), 
+                           txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.9), ticks = gpar(cex=0.75)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
                            title = "Koeye",
                            xlab= "Diff. in R.A. of Eel vs. Non Eelgrass (%)",
-                           boxsize = 0.3,
+                           boxsize = 0.2,
                            hrzl_lines = list("3" = gpar(col="#444444")), 
                            is.summary=c(TRUE,TRUE,rep(FALSE,(length(padded$Hab_diff)-2))))
   dev.off()
+  
+  (forestkoeye)
 ```
