@@ -1,1 +1,1084 @@
-region,date,set,location,eel,Paired,comp,date_proc,proc,1_frac_corr,sz_frac,orgnsm,count,rel_abun,Sum,act_countFraser ,12-Jul-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,Fraser ,12-Jul-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,Fraser ,12-Jul-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,Fraser ,12-Jul-16,1.2,MRB FR 017B (NEW),1,,0,,,,,NAN,,,,Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Cladoceran,11,0.070063694,157,11Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Phyllodocida,12,0.076433121,157,12Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Appendicularia,2,0.012738854,157,2Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Harpac,76,0.484076433,157,76Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Calanoid,46,0.292993631,157,46Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Brachyura,2,0.012738854,157,2Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Barnacle,8,0.050955414,1,8Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Gammarid,5.333333333,0.007905138,674.6666667,2Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Phyllodocida,5.333333333,0.007905138,,2Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Appendicularia,10.66666667,0.015810277,,4Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Harpac,104,0.154150198,,39Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Calanoid,546.6666667,0.81027668,,205Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Mysida,2.666666667,0.003952569,1,1Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Cladoceran,8,0.078431373,102,4Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Phyllodocida,16,0.156862745,,8Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Appendicularia,2,0.019607843,,1Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Harpac,36,0.352941176,,18Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Calanoid,34,0.333333333,,17Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Barnacle,6,0.058823529,,3Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Gammarid,4.444444444,0.009049774,491.1111111,2Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Cladoceran,17.77777778,0.036199095,,8Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Appendicularia,13.33333333,0.027149321,,6Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Harpac,371.1111111,0.755656109,,167Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Calanoid,77.77777778,0.158371041,,35Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Cumacea,2.222222222,0.004524887,,1Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Brachyura,4.444444444,0.009049774,,2Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Barnacle,20,0.040723982,,9Fraser ,26-Jun-16,2.2,MRB FR 017B (NEW),1,,0,,,,,NAN,,,,#DIV/0!Fraser ,25-Jun-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,25-Jun-16,1.2,MRB FR 017B,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,25-Jun-16,2.2,MRB SF FR 016 ,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cladoceran,2.667,0.003448705,773.3336667,1.000125Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Phyllodocida,13.33333333,0.017241372,,5Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Appendicularia,58.66666667,0.075862036,,22Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cyclopoid,2.666666667,0.003448274,,1Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Harpac,282.6666667,0.365517084,,106Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Calanoid,386.6666667,0.499999784,,145Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Mysida,2.666666667,0.003448274,,1Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cnetophora,13.33333333,0.017241372,,5Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Echinoderm,10.66666667,0.013793098,,4Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,10,Cnetophora,1,0.001070664,934,0.5Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,2,Gammarid,2,0.002141328,,1Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,2,Harpac,1,0.001070664,,0.5Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Gammarid,10,0.010706638,,5Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Cladoceran,22,0.023554604,,11Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Phyllodocida,10,0.010706638,,5Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Appendicularia,30,0.032119914,,15Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Harpac,364,0.389721627,,182Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Calanoid,484,0.518201285,,242Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Barnacle,10,0.010706638,1,5Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Cladoceran,3,0.004958678,605,3Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Phyllodocida,7,0.011570248,,7Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Appendicularia,41,0.067768595,,41Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Harpac,248,0.409917355,,248Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Calanoid,281,0.46446281,,281Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Mysida,3,0.004958678,,3Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Echinoderm,6,0.009917355,,6Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Barnacle,16,0.026446281,1,16Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,2,Gammarid,5,0.002003205,2496,0.625Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,2,Cladoceran,2,0.000801282,,0.25Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Gammarid,32,0.012820513,,4Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Cladoceran,56,0.022435897,,7Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Phyllodocida,24,0.009615385,,3Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Appendicularia,32,0.012820513,,4Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Harpac,952,0.381410256,,119Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Calanoid,1368,0.548076923,,171Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Barnacle,24,0.009615385,,3Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Brachyura,1,0.000400641,1,0.125Fraser ,11-Jun-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,11-Jun-16,1.2,FR 017B,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,11-Jun-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,11-Jun-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,2,Harpac,1,0.004273504,234,1Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,2,Calanoid,2,0.008547009,,2Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Phyllodocida,3,0.012820513,,3Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Harpac,113,0.482905983,,113Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Calanoid,115,0.491452991,,115Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Cladoceran,216,0.101503759,2128,27Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Appendicularia,32,0.015037594,,4Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Harpac,328,0.154135338,,41Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Calanoid,1464,0.687969925,,183Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Barnacle,88,0.041353383,1,11Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Cladoceran,73,0.226708075,322,73Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Appendicularia,21,0.065217391,,21Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Calanoid,204,0.633540373,,204Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Mysida,2,0.00621118,,2Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Barnacle,10,0.031055901,,10Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Phyllodocida,12,0.037267081,1,12Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Cladoceran,200,0.047619048,4200,10Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Phyllodocida,20,0.004761905,,1Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Appendicularia,20,0.004761905,,1Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Harpac,1660,0.395238095,,83Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Calanoid,1880,0.447619048,,94Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Barnacle,420,0.1,1,21Fraser ,27-May-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,27-May-16,1.2,MRB FR 017B,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,27-May-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,27-May-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,2,Phyllodocida,1,0.00075643,1322,0.333333333Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,2,Appendicularia,1,0.00075643,,0.333333333Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Cladoceran,786,0.594553707,,262Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Gastropod,15,0.011346445,,5Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Appendicularia,30,0.02269289,,10Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Echinoderm,6,0.004538578,,2Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Harpac,66,0.049924357,,22Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Calanoid,339,0.256429652,,113Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Brachyura,3,0.002269289,,1Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Barnacle,75,0.056732224,1,25Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Appendicularia,300,0.080645161,3720,30Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Valvifera,60,0.016129032,,6Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Harpac,370,0.099462366,,37Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Calanoid,590,0.158602151,,59Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Cladoceran,2360,0.634408602,,236Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Barnacle,40,0.010752688,1,4Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,2,Gammarid,3,0.000331712,9044,0.225Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,2,Natantia,1,0.000110571,,0.075Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Cladoceran,3693.333333,0.408373876,,277Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Harpac,426.6666667,0.047176765,,32Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Calanoid,4160,0.459973463,,312Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Mysida,53.33333333,0.005897096,,4Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Barnacle,706.6666667,0.078136518,1,53Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Cladoceran,648.75,0.492877493,1316.25,173Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Appendicularia,41.25,0.031339031,,11Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Echinoderm,7.5,0.005698006,,2Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Harpac,116.25,0.088319088,,31Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Calanoid,408.75,0.310541311,,109Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Mysida,7.5,0.005698006,,2Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Brachyura,3.75,0.002849003,,1Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Cnetophora,3.75,0.002849003,,1Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Barnacle,78.75,0.05982906,1,21Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Cladoceran,182,0.197826087,920,182Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Phyllodocida,43,0.04673913,,43Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Harpac,273,0.29673913,,273Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Calanoid,401,0.435869565,,401Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Mysida,7,0.007608696,,7Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Cumacea,9,0.009782609,,9Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Brachyura,4,0.004347826,,4Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,2,Gammarid,1,0.001086957,1,1Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Gammarid,32,0.018691589,214,4Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Appendicularia,16,0.009345794,,2Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Harpac,360,0.210280374,,45Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Calanoid,1176,0.686915888,,147Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Phyllodocida,24,0.014018692,,3Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Cladoceran,104,0.060747664,,13Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,10,Gammarid,1,0.002197802,455,1Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Gammarid,3,0.006593407,,3Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Cladoceran,197,0.432967033,,197Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Valvifera,1,0.002197802,,1Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Phyllodocida,5,0.010989011,,5Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Harpac,159,0.349450549,,159Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Calanoid,68,0.149450549,,68Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Mysida,1,0.002197802,,1Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Ostracod,20,0.043956044,1,20Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Appendicularia,,0.094936709,316,30Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Harpac,,0.107594937,,34Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Calanoid,,0.208860759,,66Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Cladoceran,,0.582278481,,184Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,0,10-Dec-16,MM,4,1,Phyllodocida,,0.006329114,,2Fraser ,30-Apr-16,2.2,MRB SF FR 016,0,1,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Apr-16,1.2,MRB FR 017,1,1,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Apr-16,2.2,MRB FR 017,1,1,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Apr-16,1.2,MRB SF FR 016,0,1,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Gammarid,1,0.001564945,639,1Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cladoceran,67,0.10485133,,67Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Appendicularia,27,0.042253521,,27Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cyclopoid,3,0.004694836,,3Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Harpac,109,0.17057903,,109Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Calanoid,371,0.580594679,,371Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Mysida,3,0.004694836,,3Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Barnacle,58,0.090766823,1,58Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,10,Fish Larvae,1,0.002717391,368,1Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cladoceran,43,0.116847826,,43Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Appendicularia,17,0.046195652,,17Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Harpac,35,0.095108696,,35Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Calanoid,180,0.489130435,,180Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Mysida,3,0.008152174,,3Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Ostracod,44,0.119565217,,44Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Barnacle,45,0.122282609,,45Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Valvifera,16,0.005235602,3056,2Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Phyllodocida,8,0.002617801,,1Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Harpac,2232,0.730366492,,279Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Calanoid,776,0.253926702,,97Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Mysida,8,0.002617801,,1Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Cumacea,16,0.005235602,,2Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Gammarid,4,0.001167883,3425,0.8Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Mysida,3,0.000875912,,0.6Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Brachyura,1,0.000291971,,0.2Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Gammarid,2,0.000583942,,0.4Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Cladoceran,115,0.033576642,,23Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Phyllodocida,60,0.017518248,,12Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Harpac,755,0.220437956,,151Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Calanoid,1775,0.518248175,,355Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Barnacle,710,0.20729927,,142Fraser ,16-Apr-16,1.2,FR_017,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,16-Apr-16,2.2,SF FR 016 ,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,16-Apr-16,2.2,FR 017,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,16-Apr-16,1.2,FR 016 Sand,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,2,Gammarid,3,0.007672634,391,3Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,2,Mysida,1,0.002557545,,1Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Cladoceran,7,0.017902813,,7Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Phyllodocida,7,0.017902813,,7Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Appendicularia,3,0.007672634,,3Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Harpac,240,0.613810742,,240Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Calanoid,124,0.31713555,,124Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Barnacle,5,0.012787724,,5Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Echinoderm,1,0.002557545,,1Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Cladoceran,960,0.168618267,5693.333333,72Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Appendicularia,40,0.007025761,,3Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Harpac,200,0.035128806,,15Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Calanoid,4346.666667,0.763466042,,326Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Phyllodocida,40,0.007025761,,3Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Barnacle,106.6666667,0.018735363,,8Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,10,Valvifera,1,7.34268E-05,13619,0.025Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Gammarid,13,0.000954549,,0.325Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Calanoid,1,7.34268E-05,,0.025Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Mysida,1,7.34268E-05,,0.025Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Brachyura,3,0.00022028,,0.075Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Cladoceran,240,0.017622439,,6Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Harpac,9640,0.707834643,,241Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Calanoid,3520,0.258462442,,88Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Barnacle,120,0.00881122,,3Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Phyllodocida,80,0.005874146,,2Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,2,Cumacea,1,0.000153038,6534.333333,0.075Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Cladoceran,733.3333333,0.11222772,,55Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Appendicularia,13.33333333,0.002040504,,1Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Harpac,186.6666667,0.028567056,,14Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Calanoid,5440,0.832525634,,408Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Barnacle,26.66666667,0.004081008,,2Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Phyllodocida,133.3333333,0.02040504,,10Fraser ,30-Mar-16,1.2,WPT 017_FR Rob Bank,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Mar-16,1.2,NRB SF WB FR 016,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Mar-16,2.2,NRB WP FR 017,1,,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Mar-16,2.2,WPT 016_FR NRB SF,0,,0,,,,,NAN,,,,#DIV/0!Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Cladoceran,4,0.005319149,752,1Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Phyllodocida,24,0.031914894,,6Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Harpac,16,0.021276596,,4Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Calanoid,692,0.920212766,,173Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Barnacle,16,0.021276596,,4Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Cladoceran,8,0.00370199,2161,1Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Phyllodocida,8,0.00370199,,1Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Harpac,32,0.014807959,,4Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Calanoid,2112,0.977325312,,264Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,2,Mysida,1,0.000462749,,0.125Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,2,Mysida,34,0.01218638,2790,8.5Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Harpac,1000,0.358422939,,250Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Calanoid,580,0.207885305,,145Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Barnacle,4,0.001433692,,1Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Cladoceran,4,0.001433692,,1Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Phyllodocida,4,0.001433692,,1Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Calanoid,1164,0.417204301,,291Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,10,Fish Larvae,1,0.006493506,154,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Gammarid,1,0.006493506,,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Mysida,1,0.006493506,,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Cumacea,1,0.006493506,,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Gammarid,50,0.324675325,,5Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Caprellidea,10,0.064935065,,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Phyllodocida,10,0.064935065,,1Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Cumacea,80,0.519480519,,8Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,18,Natantia,4,0.02247191,178,4Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,14,Natantia,21,0.117977528,,21Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Natantia,19,0.106741573,,19Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,6,Natantia,6,0.033707865,,6Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,6,Phyllodocida,1,0.005617978,,1Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Phyllodocida,1,0.005617978,,1Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Brachyura,1,0.005617978,,1Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Gammarid,18,0.101123596,,18Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Caprellidea,43,0.241573034,,43Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Natantia,64,0.359550562,,64Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,18,Natantia,30,0.056497175,531,30Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,14,Natantia,57,0.107344633,,57Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,10,Natantia,42,0.079096045,,42Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,6,Natantia,21,0.039548023,,21Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,22,Natantia,4,0.007532957,,4Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Gammarid,14,0.026365348,,14Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Natantia,59,0.111111111,,59Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Gammarid,160,0.301318267,,20Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Caprellidea,64,0.120527307,,8Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Calanoid,16,0.030131827,,2Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Ostracod,64,0.120527307,,8Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,26,Natantia,5,0.023696682,211,5Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,22,Natantia,6,0.028436019,,6Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,18,Natantia,12,0.056872038,,12Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,14,Natantia,19,0.090047393,,19Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,10,Natantia,49,0.232227488,,49Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,6,Natantia,23,0.109004739,,23Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Gammarid,5,0.023696682,,5Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Caprellidea,10,0.047393365,,10Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Natantia,42,0.199052133,,42Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Gammarid,192,0.909952607,,24Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Phyllodocida,16,0.075829384,,2Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Harpac,88,0.417061611,,11Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Calanoid,24,0.113744076,,3Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,10,Gammarid,3,0.019230769,156,3Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,6,Gammarid,4,0.025641026,,4Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,26,Natantia,2,0.012820513,,2Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,22,Natantia,2,0.012820513,,2Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,18,Natantia,6,0.038461538,,6Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,14,Natantia,17,0.108974359,,17Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,10,Natantia,18,0.115384615,,18Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,6,Natantia,4,0.025641026,,4Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,22,Natantia,2,0.012820513,,2Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Gammarid,9,0.057692308,,9Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Valvifera,1,0.006410256,,1Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Natantia,47,0.301282051,,47Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,1,Gammarid,37,0.237179487,,37Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,1,Valvifera,4,0.025641026,,4Qualicum ,06-Jul-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,22,Natantia,1,0.007692308,130,1Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,18,Natantia,9,0.069230769,,9Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,14,Natantia,21,0.161538462,,21Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,10,Natantia,13,0.1,,13Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,6,Natantia,2,0.015384615,,2Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,18,Natantia,1,0.007692308,,1Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,42,Natantia,1,0.007692308,,1Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,26,Fish Larvae,1,0.007692308,,1Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,14,Brachyura,2,0.015384615,,2Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,10,Brachyura,2,0.015384615,,2Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,6,Brachyura,1,0.007692308,,1Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,2,Gammarid,15,0.115384615,,15Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,2,Natantia,36,0.276923077,,36Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Gammarid,11,0.084615385,,11Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Valvifera,3,0.023076923,,3Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Harpac,6,0.046153846,,6Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Mysida,4,0.030769231,,4Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.007692308,,1Qualicum ,06-Jul-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Gastropod,1,0.001272265,786,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Phyllodocida,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Phyllodocida,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,14,Phyllodocida,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Natantia,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,18,Natantia,2,0.002544529,,2Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,14,Natantia,5,0.006361323,,5Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,10,Natantia,9,0.011450382,,9Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Natantia,9,0.011450382,,9Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Brachyura,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Brachyura,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Gammarid,13,0.01653944,,13Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Caprellidea,106,0.134860051,,106Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Valvifera,7,0.008905852,,7Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Phyllodocida,57,0.072519084,,57Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Natantia,9,0.011450382,,9Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Natantia,309,0.393129771,,309Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Brachyura,9,0.011450382,,9Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Gammarid,19,0.024173028,,19Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Caprellidea,91,0.115776081,,91Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Valvifera,2,0.002544529,,2Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Phyllodocida,107,0.136132316,,107Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Appendicularia,2,0.002544529,,2Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Harpac,1,0.001272265,,1Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Natantia,10,0.012722646,,10Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Cumacea,3,0.003816794,,3Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Ostracod,9,0.011450382,,9Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,6,Phyllodocida,2,0.033333333,60,2Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Gammarid,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Caprellidea,4,0.066666667,,4Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Phyllodocida,7,0.116666667,,7Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Harpac,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Natantia,5,0.083333333,,5Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Cumacea,11,0.183333333,,11Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Gammarid,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Gastropod,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Phyllodocida,8,0.133333333,,8Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Harpac,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Calanoid,1,0.016666667,,1Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Cumacea,16,0.266666667,,16Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Ostracod,1,0.016666667,,1Qualicum ,22-Jun-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,22-Jun-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Caprellidea,2,0.005464481,366,2Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Caprellidea,4,0.010928962,,4Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Gastropod,2,0.005464481,,2Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Natantia,1,0.00273224,,1Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,22,Natantia,2,0.005464481,,2Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,18,Natantia,17,0.046448087,,17Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,14,Natantia,26,0.071038251,,26Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Natantia,71,0.193989071,,71Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Natantia,38,0.103825137,,38Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Fish Larvae,2,0.005464481,,2Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Gammarid,12,0.032786885,,12Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Caprellidea,6,0.016393443,,6Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Natantia,140,0.382513661,,140Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Brachyura,6,0.016393443,,6Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Gammarid,19,0.051912568,,19Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Caprellidea,4,0.010928962,,4Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Gastropod,3,0.008196721,,3Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Calanoid,2,0.005464481,,2Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Natantia,1,0.00273224,,1Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Valvifera,5,0.013661202,,5Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Ostracod,3,0.008196721,1,3Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Gammarid,1,0.002881844,347,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Caprellidea,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,50,Natantia,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,34,Natantia,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,18,Natantia,10,0.028818444,,10Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,14,Natantia,25,0.07204611,,25Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,10,Natantia,49,0.141210375,,49Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Natantia,26,0.074927954,,26Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,10,Brachyura,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,14,Brachyura,4,0.011527378,,4Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Gammarid,18,0.051873199,,18Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Phyllodocida,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Natantia,149,0.429394813,,149Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Brachyura,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Fish Larvae,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Gammarid,31,0.089337176,,31Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Caprellidea,3,0.008645533,,3Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Cyclopoid,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Harpac,1,0.002881844,,1Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Calanoid,4,0.011527378,,4Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Natantia,4,0.011527378,,4Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Cumacea,3,0.008645533,,3Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Isopod,10,0.028818444,,10Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Phyllodocida,1,0.002881844,,1Qualicum ,22-Jun-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,22-Jun-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Caprellidea,9,0.014263074,631,9Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Echinoderm,3,0.004754358,,3Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Valvifera,1,0.001584786,,1Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Phyllodocida,3,0.004754358,,3Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Natantia,6,0.009508716,,6Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,10,Fish Larvae,3,0.004754358,,3Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,30,Fish Larvae,1,0.001584786,,1Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,22,Brachyura,1,0.001584786,,1Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Gammarid,43,0.0681458,,43Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Caprellidea,206,0.326465927,,206Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Echinoderm,12,0.019017433,,12Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Phyllodocida,24,0.038034865,,24Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Natantia,65,0.103011094,,65Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Fish Larvae,1,0.001584786,,1Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Brachyura,2,0.003169572,,2Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Gammarid,72,0.114104596,,72Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Caprellidea,97,0.153724247,,97Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Phyllodocida,51,0.080824089,,51Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Calanoid,5,0.00792393,,5Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Cumacea,6,0.009508716,,6Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Barnacle,20,0.031695721,,20Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Gammarid,1,0.003846154,260,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Caprellidea,16,0.061538462,,16Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Natantia,2,0.007692308,,2Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Cumacea,1,0.003846154,,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Caprellidea,3,0.011538462,,3Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Phyllodocida,1,0.003846154,,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Appendicularia,1,0.003846154,,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Calanoid,1,0.003846154,,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Cumacea,8,0.030769231,,8Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Phyllodocida,1,0.003846154,,1Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Ostracod,225,0.865384615,,225Qualicum ,06-Jun-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,06-Jun-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,10,Gastropod,7,0.077777778,90,7Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,22,Natantia,2,0.022222222,,2Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,18,Natantia,2,0.022222222,,2Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,14,Natantia,1,0.011111111,,1Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,10,Natantia,1,0.011111111,,1Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Gammarid,8,0.088888889,,8Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Natantia,46,0.511111111,,46Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Barnacle,1,0.011111111,,1Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Gammarid,9,0.1,,9Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Valvifera,4,0.044444444,,4Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Harpac,2,0.022222222,,2Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Natantia,1,0.011111111,,1Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Barnacle,6,0.066666667,,6Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,10,Caprellidea,6,0.069767442,86,6Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,6,Caprellidea,4,0.046511628,,4Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,6,Gastropod,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,14,Natantia,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,10,Natantia,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Gammarid,15,0.174418605,,15Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Caprellidea,18,0.209302326,,18Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Echinoderm,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Valvifera,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Natantia,34,0.395348837,,34Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Cumacea,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Brachyura,1,0.011627907,,1Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Cumacea,2,0.023255814,,2Qualicum ,06-Jun-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,06-Jun-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Gammarid,8,0.015717092,509,8Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,10,Caprellidea,2,0.003929273,,2Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Caprellidea,45,0.088408644,,45Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,14,Phyllodocida,2,0.003929273,,2Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Phyllodocida,9,0.017681729,,9Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,10,Natantia,2,0.003929273,,2Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Natantia,3,0.00589391,,3Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Cardidae,1,0.001964637,,1Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Echinoderm,1,0.001964637,,1Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Gammarid,76,0.149312377,,76Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Caprellidea,112,0.220039293,,112Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Gastropod,3,0.00589391,,3Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Phyllodocida,22,0.043222004,,22Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Natantia,100,0.196463654,,100Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Brachyura,12,0.023575639,,12Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Barnacle,8,0.015717092,,8Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Gammarid,61,0.119842829,,61Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Caprellidea,17,0.033398821,,17Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Phyllodocida,17,0.033398821,,17Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Barnacle,8,0.015717092,,8Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,10,Brachyura,1,0.009708738,103,1Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Gammarid,16,0.155339806,,16Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Caprellidea,3,0.029126214,,3Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Phyllodocida,9,0.087378641,,9Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Natantia,4,0.038834951,,4Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Cumacea,6,0.058252427,,6Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Barnacle,5,0.048543689,,5Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Gammarid,19,0.184466019,,19Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Caprellidea,5,0.048543689,,5Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Gastropod,15,0.145631068,,15Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Phyllodocida,8,0.077669903,,8Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Natantia,1,0.009708738,,1Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Cumacea,11,0.106796117,,11Qualicum ,25-May-16,1.2,Sunny Beach,0,1,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-May-16,2.2,Sunny Beach,0,1,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Gammarid,2,0.00921659,217,2Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Caprellidea,10,0.046082949,,10Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,22,Natantia,1,0.004608295,,1Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gammarid,37,0.170506912,,37Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Caprellidea,11,0.050691244,,11Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gastropod,17,0.078341014,,17Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Phyllodocida,7,0.032258065,,7Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Natantia,4,0.01843318,,4Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Brachyura,2,0.00921659,,2Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gammarid,99,0.456221198,,99Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Caprellidea,7,0.032258065,,7Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gastropod,3,0.013824885,,3Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Valvifera,8,0.036866359,,8Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Phyllodocida,3,0.013824885,,3Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Harpac,4,0.01843318,,4Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Calanoid,1,0.004608295,,1Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Barnacle,1,0.004608295,1,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,22,Gammarid,1,0.016129032,62,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,10,Appendicularia,1,0.016129032,,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,14,Natantia,1,0.016129032,,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,10,Brachyura,4,0.064516129,,4Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Gammarid,10,0.161290323,,10Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Caprellidea,1,0.016129032,,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Gastropod,7,0.112903226,,7Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Natantia,6,0.096774194,,6Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Brachyura,2,0.032258065,,2Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Barnacle,2,0.032258065,,2Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Gammarid,6,0.096774194,,6Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Caprellidea,2,0.032258065,,2Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Gastropod,3,0.048387097,,3Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Valvifera,1,0.016129032,,1Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Harpac,3,0.048387097,,3Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Calanoid,8,0.129032258,,8Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Cumacea,2,0.032258065,,2Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Brachyura,2,0.032258065,,2Qualicum ,25-May-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-May-16,2.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,6,Gammarid,1,0.016393443,61,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,30,Natantia,1,0.016393443,,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,22,Natantia,1,0.016393443,,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,18,Natantia,1,0.016393443,,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,14,Natantia,2,0.032786885,,2Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,10,Natantia,1,0.016393443,,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,6,Natantia,2,0.032786885,,2Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Gammarid,30,0.491803279,,30Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Valvifera,1,0.016393443,,1Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Appendicularia,5,0.081967213,,5Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Harpac,7,0.114754098,,7Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Calanoid,8,0.131147541,,8Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Cumacea,1,0.016393443,,1Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Gammarid,2,0.008928571,224,2Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,22,Natantia,2,0.008928571,,2Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,18,Natantia,2,0.008928571,,2Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,34,Natantia,1,0.004464286,,1Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,10,Brachyura,1,0.004464286,,1Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,10,Fish Larvae,1,0.004464286,,1Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gammarid,67,0.299107143,,67Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gastropod,2,0.008928571,,2Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Phyllodocida,2,0.008928571,,2Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Natantia,3,0.013392857,,3Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gammarid,136,0.607142857,,136Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Calanoid,5,0.022321429,,5Qualicum ,10-May-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,10-May-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,#DIV/0!Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Gammarid,1,0.000706714,1415,0.166666667Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,10,Caprellidea,2,0.001413428,,0.333333333Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Caprellidea,3,0.002120141,,0.5Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Phyllodocida,1,0.000706714,,0.166666667Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,18,Natantia,7,0.004946996,,1.166666667Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,14,Natantia,14,0.009893993,,2.333333333Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,10,Natantia,6,0.004240283,,1Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Natantia,2,0.001413428,,0.333333333Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Brachyura,3,0.002120141,,0.5Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Gammarid,168,0.118727915,,28Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Caprellidea,27,0.019081272,,4.5Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Gastropod,10,0.007067138,,1.666666667Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Phyllodocida,75,0.053003534,,12.5Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Natantia,36,0.025441696,,6Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Echinoderm,3,0.002120141,,0.5Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Bivalvia,7,0.004946996,,1.166666667Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Gammarid,360,0.254416961,,60Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Caprellidea,114,0.080565371,,19Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Phyllodocida,552,0.390106007,,92Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Calanoid,18,0.012720848,,3Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Bivalvia,6,0.004240283,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,6,Gammarid,1,0.003759398,266,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,14,Natantia,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,6,Cumacea,3,0.011278195,,3Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,10,Cumacea,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Gammarid,23,0.086466165,,23Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Caprellidea,3,0.011278195,,3Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Valvifera,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Phyllodocida,5,0.018796992,,5Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Calanoid,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Mysida,2,0.007518797,,2Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Natantia,5,0.018796992,,5Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Cumacea,13,0.04887218,,13Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Barnacle,10,0.037593985,,10Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Gammarid,25,0.093984962,,25Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Caprellidea,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Gastropod,2,0.007518797,,2Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Valvifera,1,0.003759398,,1Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Phyllodocida,57,0.214285714,,57Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Appendicularia,2,0.007518797,,2Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Harpac,25,0.093984962,,25Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Calanoid,53,0.19924812,,53Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Mysida,2,0.007518797,,2Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Cumacea,28,0.105263158,,28Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Echinoderm,1,0.003759398,,1Qualicum ,10-May-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,10-May-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Gammarid,3,0.006060606,495,3Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,10,Caprellidea,1,0.002020202,,1Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Caprellidea,3,0.006060606,,3Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Cumacea,5,0.01010101,,5Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Brachyura,1,0.002020202,,1Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,22,Fish Larvae,1,0.002020202,,1Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Gammarid,203,0.41010101,,203Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Caprellidea,7,0.014141414,,7Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Gastropod,4,0.008080808,,4Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Phyllodocida,10,0.02020202,,10Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Cumacea,66,0.133333333,,66Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Brachyura,3,0.006060606,,3Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Gammarid,73,0.147474747,,73Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cladoceran,5,0.01010101,,5Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Phyllodocida,77,0.155555556,,77Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cyclopoid,2,0.004040404,,2Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Harpac,16,0.032323232,,16Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Natantia,7,0.014141414,,7Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Natantia,1,0.002020202,,1Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cumacea,7,0.014141414,,7Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Gammarid,28,0.048192771,581,28Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Natantia,3,0.005163511,,3Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,14,Natantia,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Natantia,4,0.006884682,,4Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Cumacea,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Brachyura,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,10,Pleuronecti,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Gammarid,364,0.626506024,,364Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Caprellidea,3,0.005163511,,3Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Valvifera,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Phyllodocida,6,0.010327022,,6Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Natantia,22,0.037865749,,22Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Natantia,10,0.017211704,,10Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Cumacea,22,0.037865749,,22Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Brachyura,2,0.003442341,,2Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Gammarid,41,0.070567986,,41Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Cladoceran,13,0.022375215,,13Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Phyllodocida,29,0.049913941,,29Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Harpac,8,0.013769363,,8Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Calanoid,16,0.027538726,,16Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Natantia,1,0.00172117,,1Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Cumacea,4,0.006884682,,4Qualicum ,25-Apr-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-Apr-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,#DIV/0!Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,6,Gammarid,8,0.009803922,816,8Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,10,Gammarid,1,0.00122549,,1Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,10,Phyllodocida,1,0.00122549,,1Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,14,Natantia,1,0.00122549,,1Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,26,Fish Larvae,1,0.00122549,,1Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Gammarid,501,0.613970588,,501Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Phyllodocida,6,0.007352941,,6Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Natantia,4,0.004901961,,4Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Gammarid,238,0.291666667,,238Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Gastropod,5,0.006127451,,5Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Valvifera,1,0.00122549,,1Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Appendicularia,25,0.030637255,,25Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Harpac,4,0.004901961,,4Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Calanoid,18,0.022058824,,18Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Cumacea,2,0.00245098,,2Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Gammarid,3,0.00305499,982,3Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,6,Gammarid,3,0.00305499,,3Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,18,Natantia,1,0.00101833,,1Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,14,Natantia,2,0.00203666,,2Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Natantia,2,0.00203666,,2Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Brachyura,7,0.00712831,,7Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,6,Brachyura,2,0.00203666,,2Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,8,Fish Larvae,1,0.00101833,,1Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Gammarid,406,0.413441955,,406Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Appendicularia,16,0.016293279,,16Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Natantia,18,0.018329939,,18Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Natantia,3,0.00305499,,3Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Cumacea,1,0.00101833,,1Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Brachyura,4,0.00407332,,4Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Gammarid,307,0.312627291,,307Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Gastropod,4,0.00407332,,4Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Phyllodocida,2,0.00203666,,2Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Appendicularia,22,0.022403259,,22Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Harpac,76,0.077393075,,76Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Calanoid,99,0.100814664,,99Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Natantia,3,0.00305499,,3Qualicum ,25-Apr-16,2.2,Bowser L2,1,1,0,,,,,NAN,,,,#DIV/0!Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,6,Gammarid,5,0.009727626,514,5Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,10,Gammarid,3,0.005836576,,3Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,6,Cumacea,1,0.001945525,,1Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,30,Brachyura,30,0.058365759,,30Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Gammarid,281,0.546692607,,281Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Valvifera,1,0.001945525,,1Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Phyllodocida,2,0.003891051,,2Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Mysida,2,0.003891051,,2Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Cumacea,62,0.120622568,,62Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Brachyura,2,0.003891051,,2Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Gammarid,108,0.210116732,,108Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Phyllodocida,10,0.019455253,,10Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Calanoid,5,0.009727626,,5Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Cumacea,2,0.003891051,,2Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Gammarid,224,0.386873921,579,224Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Caprellidea,3,0.005181347,,Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Cumacea,40,0.069084629,,Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Gammarid,216,0.373056995,,27Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Harpac,32,0.055267703,,4Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Calanoid,64,0.110535406,,8Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,10,Gammarid,1,0.001540832,649,1Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,6,Gammarid,14,0.021571649,,14Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,6,Gastropod,4,0.006163328,,4Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,22,Natantia,2,0.003081664,,2Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Gammarid,306,0.471494607,,306Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Phyllodocida,8,0.012326656,,8Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Appendicularia,2,0.003081664,,2Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Calanoid,8,0.012326656,,8Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Natantia,4,0.006163328,,4Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Natantia,1,0.001540832,,1Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Gammarid,146,0.224961479,,146Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Phyllodocida,6,0.009244992,,6Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Appendicularia,3,0.004622496,,3Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Harpac,30,0.046224961,,30Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Calanoid,112,0.17257319,,112Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Cumacea,1,0.001540832,,1Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Isopod,1,0.001540832,,1Qualicum ,11-Apr-16,1.2,Bowser L4,1,1,0,,,,,NAN,,,,#DIV/0!Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,18,Natantia,1,0.002252252,444,1Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,14,Natantia,4,0.009009009,,4Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,6,Brachyura,1,0.002252252,,1Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,2,Gammarid,220,0.495495495,,220Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,2,Natantia,2,0.004504505,,2Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Gammarid,144,0.324324324,,18Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Harpac,16,0.036036036,,2Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Calanoid,56,0.126126126,,7Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,32,Valvifera,1,0.007874016,127,1Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,24,Valvifera,1,0.007874016,,1Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Phyllodocida,1,0.007874016,,1Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Barnacle,2,0.015748031,,2Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Gammarid,3,0.023622047,,3Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Cladoceran,5,0.039370079,,5Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Phyllodocida,94,0.74015748,,94Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Appendicularia,1,0.007874016,,1Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Harpac,16,0.125984252,,16Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Calanoid,2,0.015748031,,2Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Cumacea,1,0.007874016,,1Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Gammarid,1,0.001572327,636,1Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,7,0.011006289,,7Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,251,0.394654088,,251Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Calanoid,1,0.001572327,,1Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cumacea,2,0.003144654,,2Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Gammarid,2,0.003144654,,2Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Euphausiid,1,0.001572327,,1Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Gammarid,1,0.001572327,,1Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Phyllodocida,357,0.561320755,,357Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Harpac,11,0.017295597,,11Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Calanoid,2,0.003144654,,2Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,2,Gammarid,5,0.004132231,1210,1.25Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,2,Brachyura,1,0.000826446,,0.25Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Gammarid,20,0.016528926,,5Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Phyllodocida,40,0.033057851,,10Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Harpac,1136,0.938842975,,284Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Calanoid,4,0.003305785,,1Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Cumacea,4,0.003305785,,1Koeye,7-Aug-16,2.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,7-Aug-16,2.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,7-Aug-16,1.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,7-Aug-16,1.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,9-Jul-16,1.2,Koeye,0,1,0,,,,,NAN,,,,#DIV/0!Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,6,Gammarid,1,0.038461538,26,1Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,14,Valvifera,1,0.038461538,,1Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,2,Euphausiid,2,0.076923077,,2Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Gammarid,2,0.076923077,,2Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Cladoceran,1,0.038461538,,1Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Phyllodocida,3,0.115384615,,3Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Appendicularia,2,0.076923077,,2Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Harpac,8,0.307692308,,8Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Calanoid,5,0.192307692,,5Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Cumacea,1,0.038461538,,1Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,10,Natantia,1,0.025,40,1Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Gammarid,1,0.025,,1Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Phyllodocida,1,0.025,,1Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Calanoid,1,0.025,,1Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Phyllodocida,16,0.4,,16Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Cyclopoid,1,0.025,,1Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Calanoid,1,0.025,,1Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Gammarid,2,0.05,,2Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Cladoceran,2,0.05,,2Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Valvifera,1,0.025,,1Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Harpac,4,0.1,,4Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Calanoid,5,0.125,,5Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Cumacea,3,0.075,,3Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Ostracod,1,0.025,,1Koeye,09-Jul-16,2.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,09-Jul-16,2.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,09-Jul-16,1.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,11-Jun-16,2.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,11-Jun-16,1.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,11-Jun-16,2.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,11-Jun-16,1.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Gammarid,1,0.016949153,59,1Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Cladoceran,7,0.118644068,,7Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Harpac,4,0.06779661,,4Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Calanoid,16,0.271186441,,16Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Barnacle,3,0.050847458,,3Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Ostracod,28,0.474576271,,28Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,2,Gammarid,1,0.006944444,144,1Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,2,Harpac,1,0.006944444,,1Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Gammarid,25,0.173611111,,25Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Cladoceran,4,0.027777778,,4Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Valvifera,1,0.006944444,,1Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Phyllodocida,4,0.027777778,,4Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Harpac,54,0.375,,54Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Calanoid,1,0.006944444,,1Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Cumacea,4,0.027777778,,4Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Ostracod,49,0.340277778,1,49Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Phyllodocida,5,0.357142857,14,5Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Harpac,1,0.071428571,,1Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Calanoid,8,0.571428571,,8Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,82,Phyllodocida,1,0.006134969,163,1Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Gammarid,27,0.165644172,,27Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,1,0.006134969,,1Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Phyllodocida,2,0.012269939,,2Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,47,0.288343558,,47Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cumacea,1,0.006134969,,1Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Ostracod,84,0.515337423,,84Koeye,11-May-16,1.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,11-May-16,1.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,11-May-16,2.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,10,Gammarid,1,0.009708738,103,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,14,Valvifera,2,0.019417476,,2Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,6,Valvifera,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,6,Brachyura,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,26,Pleuronecti,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,4,0.038834951,,4Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cladoceran,3,0.029126214,,3Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,2,0.019417476,,2Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Phyllodocida,15,0.145631068,,15Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,66,0.640776699,,66Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Calanoid,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Barnacle,1,0.009708738,,1Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,4,0.038834951,,4Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,4,0.057971014,69,4Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Appendicularia,1,0.014492754,,1Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,2,0.028985507,,2Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Calanoid,38,0.550724638,,38Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Barnacle,23,0.333333333,,23Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Ostracod,1,0.014492754,,1Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Gammarid,1,0.035714286,28,1Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Cladoceran,1,0.035714286,,1Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Harpac,1,0.035714286,,1Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Calanoid,22,0.785714286,,22Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Barnacle,3,0.107142857,,3Koeye,11-May-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Ostracod,1,0.111111111,9,1Koeye,11-May-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Calanoid,8,0.888888889,,8Koeye,30-Apr-16,2.2,Koeye,1,,0,,,,1,NAN,,,,#DIV/0!Koeye,30-Apr-16,1.2,Koeye,1,,0,,,,,NAN,,,,#DIV/0!Koeye,30-Apr-16,2.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,30-Apr-16,1.2,Koeye,0,,0,,,,,NAN,,,,#DIV/0!Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,23,0.433962264,53,23Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,1,0.018867925,,1Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Phyllodocida,4,0.075471698,,4Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,2,0.037735849,,2Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Calanoid,1,0.018867925,,1Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.018867925,,1Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Echinoderm,1,0.018867925,,1Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,7,0.132075472,,7Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Gammarid,5,0.094339623,,5Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Valvifera,5,0.094339623,,5Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Barnacle,3,0.056603774,,3Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Gammarid,4,0.078431373,51,4Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,2,Phyllodocida,1,0.019607843,,1Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Gammarid,2,0.039215686,,2Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Valvifera,1,0.019607843,,1Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Phyllodocida,10,0.196078431,,10Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Harpac,2,0.039215686,,2Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Ostracod,16,0.31372549,,16Koeye,30-Apr-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Phyllodocida,7,0.137254902,,7Koeye,30-Apr-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Ostracod,8,0.156862745,,8Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Gammarid,44,0.494382022,89,44Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Valvifera,4,0.04494382,,4Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Phyllodocida,2,0.02247191,,2Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,23,0.258426966,,23Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Hyperiidea,2,0.02247191,,2Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,1,0.011235955,,1Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,9,0.101123596,,9Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,4,0.04494382,,4Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,2,Phyllodocida,2,0.004366812,458,1Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,2,Cumacea,2,0.004366812,,1Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Cladoceran,4,0.008733624,,2Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Valvifera,4,0.008733624,,2Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Phyllodocida,6,0.013100437,,3Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Appendicularia,6,0.013100437,,3Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Harpac,150,0.327510917,,75Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Calanoid,282,0.615720524,,141Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Cumacea,2,0.004366812,,1Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,10,Fish Larvae,1,0.000333111,3002,0.1Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,2,Natantia,1,0.000333111,,0.1Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Cladoceran,80,0.026648901,,8Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Valvifera,20,0.006662225,,2Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Phyllodocida,10,0.003331113,,1Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Harpac,110,0.036642239,,11Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Calanoid,2780,0.9260493,,278Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Mysida,1,0.000295683,3382,0.125Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Natantia,2,0.000591366,,0.25Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Cumacea,2,0.000591366,,0.25Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,4,Mysida,1,0.000295683,,0.125Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Cladoceran,72,0.021289178,,9Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Phyllodocida,8,0.002365464,,1Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Appendicularia,32,0.009461857,,4Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Harpac,280,0.082791248,,35Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Calanoid,2984,0.882318155,,373Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Phyllodocida,80,0.033444816,299,10Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Harpac,48,0.02006689,,6Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Calanoid,2224,0.929765886,,278Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Cladoceran,40,0.016722408,,5Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Gammarid,1,0.000423729,2360,0.125Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Calanoid,1,0.000423729,,0.125Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Natantia,4,0.001694915,,0.5Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Cumacea,1,0.000423729,,0.125Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,26,Fish Larvae,1,0.000423729,,0.125Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Cladoceran,16,0.006779661,,2Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Phyllodocida,56,0.023728814,,7Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Appendicularia,16,0.006779661,,2Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Harpac,296,0.125423729,,37Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Calanoid,1968,0.833898305,,246Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,1,Harpac,1920,0.025972269,73925,6Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,1,Calanoid,72000,0.973960095,,225Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Calanoid,2,2.70544E-05,,0.00625Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Natantia,1,1.35272E-05,,0.003125Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Cumacea,2,2.70544E-05,,0.00625Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Phyllodocida,1,0.001008403,991.6666667,0.3Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Natantia,3,0.00302521,,0.9Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Fish Larvae,1,0.001008403,,0.3Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Appendicularia,13.33333333,0.013445378,,4Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Harpac,543.3333333,0.54789916,,163Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Calanoid,426.6666667,0.430252101,,128Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Cumacea,3.333333333,0.003361345,,1Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Harpac,128,0.119402985,1072,Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Phyllodocida,16,0.014925373,,Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Calanoid,896,0.835820896,,Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Cladoceran,32,0.029850746,,Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,2,Gammarid,2,0.00078064,2562,Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Appendicularia,16,0.006245121,,Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Harpac,56,0.021857923,,Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Calanoid,2472,0.964871194,,Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Cladoceran,16,0.006245121,,2Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Cladoceran,200,0.033647376,5944,10Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Phyllodocida,120,0.020188425,,6Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Harpac,360,0.060565276,,18Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Calanoid,5260,0.884925976,,263Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,2,Harpac,1,0.000168237,,0.05Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,2,Cumacea,3,0.000504711,,0.15Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Cladoceran,6,0.001502755,3992.666667,0.45Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Phyllodocida,53.33333333,0.013357823,,4Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Harpac,160,0.040073468,,12Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Calanoid,3760,0.941726499,,282Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Natantia,13.33333333,0.003339456,,1Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Appendicularia,8,0.003558719,281,1Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Harpac,40,0.017793594,,5Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Calanoid,2176,0.96797153,,272Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Cladoceran,24,0.010676157,,3Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Phyllodocida,24,0.015384615,195,3Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Appendicularia,8,0.005128205,,1Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Harpac,48,0.030769231,,6Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Calanoid,1472,0.943589744,,184Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Mysida,8,0.005128205,,1Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,2,Natantia,1,0.000494071,2024,0.1Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,2,Cumacea,3,0.001482213,,0.3Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Cladoceran,40,0.019762846,,4Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Valvifera,10,0.004940711,,1Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Appendicularia,20,0.009881423,,2Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Harpac,160,0.079051383,,16Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Calanoid,1700,0.839920949,,170Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Cumacea,90,0.044466403,,9Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Appendicularia,26.66666667,0.007782101,257,2Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Harpac,280,0.081712062,,21Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Calanoid,3026.666667,0.883268482,,227Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Cumacea,26.66666667,0.007782101,,2Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Brachyura,13.33333333,0.003891051,,1Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Cladoceran,53.33333333,0.015564202,,4Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,14,Cumacea,1,0.000202799,4931,0.125Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Valvifera,3,0.000608396,,0.375Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Phyllodocida,1,0.000202799,,0.125Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Natantia,12,0.002433583,,1.5Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Fish Larvae,1,0.000202799,,0.125Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Appendicularia,16,0.003244778,,2Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Harpac,1840,0.373149463,,230Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Calanoid,3056,0.619752586,,382Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Brachyura,1,0.000202799,,0.125Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Cumacea,1,0.011627907,86,1Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Calanoid,5,0.058139535,,5Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Harpac,69,0.802325581,,69Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Phyllodocida,6,0.069767442,,6Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Gammarid,3,0.034883721,,3Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,2,Cumacea,1,0.011627907,,1Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,2,Phyllodocida,1,0.011627907,,1Bedwell,9-Jun-16,3.2,,,,0,,,,,NAN,,,,#DIV/0!Bedwell,9-Jun-16,3.2,,,,0,,,,,NAN,,,,#DIV/0!Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Cumacea,96,0.328767123,292,96Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Harpac,133,0.455479452,,133Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Phyllodocida,20,0.068493151,,20Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Cladoceran,1,0.003424658,,1Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Gammarid,10,0.034246575,,10Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Brachyura,1,0.003424658,,1Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Cumacea,20,0.068493151,,20Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Phyllodocida,5,0.017123288,,5Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Gammarid,6,0.020547945,,6Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,2,Valvifera,1,0.003484321,287,1Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,2,Phyllodocida,1,0.003484321,,1Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Gammarid,8,0.027874564,,8Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Cladoceran,3,0.010452962,,3Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,15,0.052264808,,15Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Harpac,210,0.731707317,,210Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Calanoid,4,0.013937282,,4Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Cumacea,45,0.156794425,,45Bedwell,27-May-16,1.2,ES4,1,,0,,,,,NAN,,,,#DIV/0!Bedwell,27-May-16,1.2,ES3,,,0,,,,,NAN,,,,#DIV/0!Bedwell,27-May-16,1.2,ES3,,,0,,,,,NAN,,,,#DIV/0!Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,2,Gammarid,1,0.005882353,170,1Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,2,Cumacea,4,0.023529412,,4Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Gammarid,11,0.064705882,,11Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Cladoceran,2,0.011764706,,2Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Phyllodocida,5,0.029411765,,5Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Harpac,127,0.747058824,,127Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Calanoid,4,0.023529412,,4Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Cumacea,16,0.094117647,,16Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Gammarid,3,0.002308286,1299.66541,0.9000009Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Harpac,7,0.005386002,,2.1000021Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Cumacea,17,0.01308029,,5.1000051Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Phyllodocida,3,0.002308286,,0.9000009Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Harpac,1256.66541,0.966914561,,377Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Cumacea,13,0.010002574,,3.9000039Bedwell,28-Apr-16,4.2,,1,,0,,,,,NAN,,,,#DIV/0!Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Gammarid,2,0.024096386,83,2Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,3,0.036144578,,3Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Appendicularia,14,0.168674699,,14Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Harpac,23,0.277108434,,23Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Calanoid,37,0.445783133,,37Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Ostracod,3,0.036144578,,3Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,2,Gammarid,1,0.012048193,,1Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,2,Phyllodocida,1,0.004975124,201,1Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Gammarid,6,0.029850746,,6Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Cladoceran,3,0.014925373,,3Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Valvifera,1,0.004975124,,1Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,5,0.024875622,,5Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Harpac,146,0.726368159,,146Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Calanoid,15,0.074626866,,15Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Cumacea,20,0.099502488,,20Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Ostracod,4,0.019900498,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+region,date,set,location,eel,Paired,comp,date_proc,proc,1_frac_corr,sz_frac,orgnsm,count,rel_abun,Sum,act_count
+Fraser ,12-Jul-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,12-Jul-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,12-Jul-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,12-Jul-16,1.2,MRB FR 017B (NEW),1,,0,,,,,NAN,,,,
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Cladoceran,11,0.070063694,157,11
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Phyllodocida,12,0.076433121,157,12
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Appendicularia,2,0.012738854,157,2
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Harpac,76,0.484076433,157,76
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Calanoid,46,0.292993631,157,46
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Brachyura,2,0.012738854,157,2
+Fraser ,12-Jul-16,1.1,MRB SF FR 016,0,,1,20-Sep-16,MM,1,1,Barnacle,8,0.050955414,157,8
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Gammarid,5.333333333,0.007905138,674.6666667,2
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Phyllodocida,5.333333333,0.007905138,674.6666667,2
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Appendicularia,10.66666667,0.015810277,674.6666667,4
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Harpac,104,0.154150198,674.6666667,39
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Calanoid,546.6666667,0.81027668,674.6666667,205
+Fraser ,12-Jul-16,2.1,MRB FR 017B (NEW),1,,1,22-Sep-16,MM,2.666666667,1,Mysida,2.666666667,0.003952569,674.6666667,1
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Cladoceran,8,0.078431373,102,4
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Phyllodocida,16,0.156862745,102,8
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Appendicularia,2,0.019607843,102,1
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Harpac,36,0.352941176,102,18
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Calanoid,34,0.333333333,102,17
+Fraser ,12-Jul-16,2.1,MRB SF FR 016,0,,1,20-Sep-16,MM,2,1,Barnacle,6,0.058823529,102,3
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Gammarid,4.444444444,0.009049774,491.1111111,2
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Cladoceran,17.77777778,0.036199095,491.1111111,8
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Appendicularia,13.33333333,0.027149321,491.1111111,6
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Harpac,371.1111111,0.755656109,491.1111111,167
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Calanoid,77.77777778,0.158371041,491.1111111,35
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Cumacea,2.222222222,0.004524887,491.1111111,1
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Brachyura,4.444444444,0.009049774,491.1111111,2
+Fraser ,12-Jul-16,1.1,MRB FR 017B (NEW),1,,1,20-Sep-16,MM,2.222222222,1,Barnacle,20,0.040723982,491.1111111,9
+Fraser ,26-Jun-16,2.2,MRB FR 017B (NEW),1,,0,,,,,NAN,,,,
+Fraser ,25-Jun-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,25-Jun-16,1.2,MRB FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,25-Jun-16,2.2,MRB SF FR 016 ,0,,0,,,,,NAN,,,,
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cladoceran,2.667,0.003448705,773.3336667,1.000125
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Phyllodocida,13.33333333,0.017241372,773.3336667,5
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Appendicularia,58.66666667,0.075862036,773.3336667,22
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cyclopoid,2.666666667,0.003448274,773.3336667,1
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Harpac,282.6666667,0.365517084,773.3336667,106
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Calanoid,386.6666667,0.499999784,773.3336667,145
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Mysida,2.666666667,0.003448274,773.3336667,1
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Cnetophora,13.33333333,0.017241372,773.3336667,5
+Fraser ,25-Jun-16,2.1,MRB SF FR 016,0,,1,21-Sep-16,MM,2.666666667,1,Echinoderm,10.66666667,0.013793098,773.3336667,4
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,10,Cnetophora,1,0.001070664,934,0.5
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,2,Gammarid,2,0.002141328,934,1
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,2,Harpac,1,0.001070664,934,0.5
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Gammarid,10,0.010706638,934,5
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Cladoceran,22,0.023554604,934,11
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Phyllodocida,10,0.010706638,934,5
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Appendicularia,30,0.032119914,934,15
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Harpac,364,0.389721627,934,182
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Calanoid,484,0.518201285,934,242
+Fraser ,25-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,2,1,Barnacle,10,0.010706638,934,5
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Cladoceran,3,0.004958678,605,3
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Phyllodocida,7,0.011570248,605,7
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Appendicularia,41,0.067768595,605,41
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Harpac,248,0.409917355,605,248
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Calanoid,281,0.46446281,605,281
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Mysida,3,0.004958678,605,3
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Echinoderm,6,0.009917355,605,6
+Fraser ,25-Jun-16,1.1,MRB SF FR 016,0,,1,22-Sep-16,MM,1,1,Barnacle,16,0.026446281,605,16
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,2,Gammarid,5,0.002003205,2496,0.625
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,2,Cladoceran,2,0.000801282,2496,0.25
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Gammarid,32,0.012820513,2496,4
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Cladoceran,56,0.022435897,2496,7
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Phyllodocida,24,0.009615385,2496,3
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Appendicularia,32,0.012820513,2496,4
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Harpac,952,0.381410256,2496,119
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Calanoid,1368,0.548076923,2496,171
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Barnacle,24,0.009615385,2496,3
+Fraser ,25-Jun-16,1.1,MRB FR 017B,1,,1,27-Sep-16,MM,8,1,Brachyura,1,0.000400641,2496,0.125
+Fraser ,11-Jun-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,11-Jun-16,1.2,FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,11-Jun-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,11-Jun-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,2,Harpac,1,0.004273504,234,1
+Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,2,Calanoid,2,0.008547009,234,2
+Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Phyllodocida,3,0.012820513,234,3
+Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Harpac,113,0.482905983,234,113
+Fraser ,11-Jun-16,1.1,MRB FR 017B,1,,1,21-Sep-16,MM,1,1,Calanoid,115,0.491452991,234,115
+Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Cladoceran,216,0.101503759,2128,27
+Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Appendicularia,32,0.015037594,2128,4
+Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Harpac,328,0.154135338,2128,41
+Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Calanoid,1464,0.687969925,2128,183
+Fraser ,11-Jun-16,1.1,MRB SF FR 016,0,,1,27-Sep-16,MM,8,1,Barnacle,88,0.041353383,2128,11
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Cladoceran,73,0.226708075,322,73
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Appendicularia,21,0.065217391,322,21
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Calanoid,204,0.633540373,322,204
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Mysida,2,0.00621118,322,2
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Barnacle,10,0.031055901,322,10
+Fraser ,11-Jun-16,2.1,MRB SF FR 016,0,,1,16-Sep-16,MM,1,1,Phyllodocida,12,0.037267081,322,12
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Cladoceran,200,0.047619048,4200,10
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Phyllodocida,20,0.004761905,4200,1
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Appendicularia,20,0.004761905,4200,1
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Harpac,1660,0.395238095,4200,83
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Calanoid,1880,0.447619048,4200,94
+Fraser ,11-Jun-16,2.1,MRB FR 017B,1,,1,20-Sep-16,MM,20,1,Barnacle,420,0.1,4200,21
+Fraser ,27-May-16,2.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,27-May-16,1.2,MRB FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,27-May-16,1.2,MRB SF FR 016,0,,0,,,,,NAN,,,,
+Fraser ,27-May-16,2.2,MRB FR 017B,1,,0,,,,,NAN,,,,
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,2,Phyllodocida,1,0.00075643,1322,0.333333333
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,2,Appendicularia,1,0.00075643,1322,0.333333333
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Cladoceran,786,0.594553707,1322,262
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Gastropod,15,0.011346445,1322,5
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Appendicularia,30,0.02269289,1322,10
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Echinoderm,6,0.004538578,1322,2
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Harpac,66,0.049924357,1322,22
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Calanoid,339,0.256429652,1322,113
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Brachyura,3,0.002269289,1322,1
+Fraser ,27-May-16,1.1,MRB SF FR 016,0,1,1,23-Aug-16,MM,3,1,Barnacle,75,0.056732224,1322,25
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Appendicularia,300,0.080645161,3720,30
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Valvifera,60,0.016129032,3720,6
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Harpac,370,0.099462366,3720,37
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Calanoid,590,0.158602151,3720,59
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Cladoceran,2360,0.634408602,3720,236
+Fraser ,27-May-16,2.1,MRB SF FR 016,0,1,1,27-Aug-16,MM,10,1,Barnacle,40,0.010752688,3720,4
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,2,Gammarid,3,0.000331712,9044,0.225
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,2,Natantia,1,0.000110571,9044,0.075
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Cladoceran,3693.333333,0.408373876,9044,277
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Harpac,426.6666667,0.047176765,9044,32
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Calanoid,4160,0.459973463,9044,312
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Mysida,53.33333333,0.005897096,9044,4
+Fraser ,27-May-16,1.1,MRB FR 017,1,1,1,21-Aug-16,MM,13.33333333,1,Barnacle,706.6666667,0.078136518,9044,53
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Cladoceran,648.75,0.492877493,1316.25,173
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Appendicularia,41.25,0.031339031,1316.25,11
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Echinoderm,7.5,0.005698006,1316.25,2
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Harpac,116.25,0.088319088,1316.25,31
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Calanoid,408.75,0.310541311,1316.25,109
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Mysida,7.5,0.005698006,1316.25,2
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Brachyura,3.75,0.002849003,1316.25,1
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Cnetophora,3.75,0.002849003,1316.25,1
+Fraser ,27-May-16,2.1,MRB FR 017,1,1,1,23-Aug-16,MM,3.75,1,Barnacle,78.75,0.05982906,1316.25,21
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Cladoceran,182,0.197826087,920,182
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Phyllodocida,43,0.04673913,920,43
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Harpac,273,0.29673913,920,273
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Calanoid,401,0.435869565,920,401
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Mysida,7,0.007608696,920,7
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Cumacea,9,0.009782609,920,9
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,1,Brachyura,4,0.004347826,920,4
+Fraser ,11-May-16,1.1,MRB FR 017B,1,,1,11-Aug-16,MM,1,2,Gammarid,1,0.001086957,920,1
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Gammarid,32,0.018691589,214,4
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Appendicularia,16,0.009345794,214,2
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Harpac,360,0.210280374,214,45
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Calanoid,1176,0.686915888,214,147
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Phyllodocida,24,0.014018692,214,3
+Fraser ,11-May-16,2.1,MRB SF FR 017,1,,1,10-Dec-16,MM,8,1,Cladoceran,104,0.060747664,214,13
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,10,Gammarid,1,0.002197802,455,1
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Gammarid,3,0.006593407,455,3
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Cladoceran,197,0.432967033,455,197
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Valvifera,1,0.002197802,455,1
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Phyllodocida,5,0.010989011,455,5
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Harpac,159,0.349450549,455,159
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Calanoid,68,0.149450549,455,68
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Mysida,1,0.002197802,455,1
+Fraser ,11-May-16,1.1,MRB SF FR 016,0,1,1,11-Aug-16,MM,1,1,Ostracod,20,0.043956044,455,20
+Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Appendicularia,,0.094936709,316,30
+Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Harpac,,0.107594937,316,34
+Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Calanoid,,0.208860759,316,66
+Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,1,10-Dec-16,MM,4,1,Cladoceran,,0.582278481,316,184
+Fraser ,11-May-16,2.1,MRB SF FR 016,0,1,0,10-Dec-16,MM,4,1,Phyllodocida,,0.006329114,316,2
+Fraser ,30-Apr-16,2.2,MRB SF FR 016,0,1,0,,,,,NAN,,,,
+Fraser ,30-Apr-16,1.2,MRB FR 017,1,1,0,,,,,NAN,,,,
+Fraser ,30-Apr-16,2.2,MRB FR 017,1,1,0,,,,,NAN,,,,
+Fraser ,30-Apr-16,1.2,MRB SF FR 016,0,1,0,,,,,NAN,,,,
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Gammarid,1,0.001564945,639,1
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cladoceran,67,0.10485133,639,67
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Appendicularia,27,0.042253521,639,27
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cyclopoid,3,0.004694836,639,3
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Harpac,109,0.17057903,639,109
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Calanoid,371,0.580594679,639,371
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Mysida,3,0.004694836,639,3
+Fraser ,30-Apr-16,1.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Barnacle,58,0.090766823,639,58
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,10,Fish Larvae,1,0.002717391,368,1
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Cladoceran,43,0.116847826,368,43
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Appendicularia,17,0.046195652,368,17
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Harpac,35,0.095108696,368,35
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Calanoid,180,0.489130435,368,180
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Mysida,3,0.008152174,368,3
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Ostracod,44,0.119565217,368,44
+Fraser ,30-Apr-16,2.1,MRB SF FR 016,0,1,1,21-Aug-16,MM,1,1,Barnacle,45,0.122282609,368,45
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Valvifera,16,0.005235602,3056,2
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Phyllodocida,8,0.002617801,3056,1
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Harpac,2232,0.730366492,3056,279
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Calanoid,776,0.253926702,3056,97
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Mysida,8,0.002617801,3056,1
+Fraser ,30-Apr-16,1.1,MRB FR 017,1,1,1,11-Aug-16,MM,8,1,Cumacea,16,0.005235602,3056,2
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Gammarid,4,0.001167883,3425,0.8
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Mysida,3,0.000875912,3425,0.6
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,2,Brachyura,1,0.000291971,3425,0.2
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Gammarid,2,0.000583942,3425,0.4
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Cladoceran,115,0.033576642,3425,23
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Phyllodocida,60,0.017518248,3425,12
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Harpac,755,0.220437956,3425,151
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Calanoid,1775,0.518248175,3425,355
+Fraser ,30-Apr-16,2.1,MRB FR 017,1,1,1,21-Aug-16,MM,5,1,Barnacle,710,0.20729927,3425,142
+Fraser ,16-Apr-16,1.2,FR_017,1,,0,,,,,NAN,,,,
+Fraser ,16-Apr-16,2.2,SF FR 016 ,0,,0,,,,,NAN,,,,
+Fraser ,16-Apr-16,2.2,FR 017,1,,0,,,,,NAN,,,,
+Fraser ,16-Apr-16,1.2,FR 016 Sand,0,,0,,,,,NAN,,,,
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,2,Gammarid,3,0.007672634,391,3
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,2,Mysida,1,0.002557545,391,1
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Cladoceran,7,0.017902813,391,7
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Phyllodocida,7,0.017902813,391,7
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Appendicularia,3,0.007672634,391,3
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Harpac,240,0.613810742,391,240
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Calanoid,124,0.31713555,391,124
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Barnacle,5,0.012787724,391,5
+Fraser ,16-Apr-16,1.1,FR 017 ,1,,1,22-Sep-16,MM,1,1,Echinoderm,1,0.002557545,391,1
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Cladoceran,960,0.168618267,5693.333333,72
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Appendicularia,40,0.007025761,5693.333333,3
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Harpac,200,0.035128806,5693.333333,15
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Calanoid,4346.666667,0.763466042,5693.333333,326
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Phyllodocida,40,0.007025761,5693.333333,3
+Fraser ,16-Apr-16,1.1,Site 3 SF FR 016 ,0,,1,20-Sep-16,MM,13.33333333,1,Barnacle,106.6666667,0.018735363,5693.333333,8
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,10,Valvifera,1,7.34268E-05,13619,0.025
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Gammarid,13,0.000954549,13619,0.325
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Calanoid,1,7.34268E-05,13619,0.025
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Mysida,1,7.34268E-05,13619,0.025
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,2,Brachyura,3,0.00022028,13619,0.075
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Cladoceran,240,0.017622439,13619,6
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Harpac,9640,0.707834643,13619,241
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Calanoid,3520,0.258462442,13619,88
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Barnacle,120,0.00881122,13619,3
+Fraser ,16-Apr-16,2.1,Site 2 FR 017,1,,1,30-Sep-16,MM,40,1,Phyllodocida,80,0.005874146,13619,2
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,2,Cumacea,1,0.000153038,6534.333333,0.075
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Cladoceran,733.3333333,0.11222772,6534.333333,55
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Appendicularia,13.33333333,0.002040504,6534.333333,1
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Harpac,186.6666667,0.028567056,6534.333333,14
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Calanoid,5440,0.832525634,6534.333333,408
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Barnacle,26.66666667,0.004081008,6534.333333,2
+Fraser ,16-Apr-16,2.1,Site 3 FR 016,0,,1,20-Sep-16,MM,13.33333333,1,Phyllodocida,133.3333333,0.02040504,6534.333333,10
+Fraser ,30-Mar-16,1.2,WPT 017_FR Rob Bank,1,,0,,,,,NAN,,,,
+Fraser ,30-Mar-16,1.2,NRB SF WB FR 016,0,,0,,,,,NAN,,,,
+Fraser ,30-Mar-16,2.2,NRB WP FR 017,1,,0,,,,,NAN,,,,
+Fraser ,30-Mar-16,2.2,WPT 016_FR NRB SF,0,,0,,,,,NAN,,,,
+Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Cladoceran,4,0.005319149,752,1
+Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Phyllodocida,24,0.031914894,752,6
+Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Harpac,16,0.021276596,752,4
+Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Calanoid,692,0.920212766,752,173
+Fraser ,30-Mar-16,2.1,NRB WP FR 017,1,,1,20-Sep-16,MM,4,1,Barnacle,16,0.021276596,752,4
+Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Cladoceran,8,0.00370199,2161,1
+Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Phyllodocida,8,0.00370199,2161,1
+Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Harpac,32,0.014807959,2161,4
+Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,1,Calanoid,2112,0.977325312,2161,264
+Fraser ,30-Mar-16,1.1,NRB SF WP FR 016,0,,1,22-Sep-16,MM,8,2,Mysida,1,0.000462749,2161,0.125
+Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,2,Mysida,34,0.01218638,2790,8.5
+Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Harpac,1000,0.358422939,2790,250
+Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Calanoid,580,0.207885305,2790,145
+Fraser ,30-Mar-16,1.1,NRB WPT FR 017,1,,1,22-Sep-16,MM,4,1,Barnacle,4,0.001433692,2790,1
+Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Cladoceran,4,0.001433692,2790,1
+Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Phyllodocida,4,0.001433692,2790,1
+Fraser ,30-Mar-16,2.1,NRB SF WB FR 016,0,,1,22-Sep-16,MM,4,1,Calanoid,1164,0.417204301,2790,291
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,10,Fish Larvae,1,0.006493506,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Gammarid,1,0.006493506,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Mysida,1,0.006493506,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,2,Cumacea,1,0.006493506,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Gammarid,50,0.324675325,154,5
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Caprellidea,10,0.064935065,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Phyllodocida,10,0.064935065,154,1
+Qualicum,20-Jul-16,2.1,Sunny Beach,0,,1,10-Dec-16,MM,10,1,Cumacea,80,0.519480519,154,8
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,18,Natantia,4,0.02247191,178,4
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,14,Natantia,21,0.117977528,178,21
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Natantia,19,0.106741573,178,19
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,6,Natantia,6,0.033707865,178,6
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,6,Phyllodocida,1,0.005617978,178,1
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Phyllodocida,1,0.005617978,178,1
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,10,Brachyura,1,0.005617978,178,1
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Gammarid,18,0.101123596,178,18
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Caprellidea,43,0.241573034,178,43
+Qualicum,20-Jul-16,1.1,Sunny Beach,0,,1,10-Dec-16,MM,1,2,Natantia,64,0.359550562,178,64
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,18,Natantia,30,0.056497175,531,30
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,14,Natantia,57,0.107344633,531,57
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,10,Natantia,42,0.079096045,531,42
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,6,Natantia,21,0.039548023,531,21
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,22,Natantia,4,0.007532957,531,4
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Gammarid,14,0.026365348,531,14
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Natantia,59,0.111111111,531,59
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Gammarid,160,0.301318267,531,20
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Caprellidea,64,0.120527307,531,8
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Calanoid,16,0.030131827,531,2
+Qualicum,19-Jul-16,2.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Ostracod,64,0.120527307,531,8
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,26,Natantia,5,0.023696682,211,5
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,22,Natantia,6,0.028436019,211,6
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,18,Natantia,12,0.056872038,211,12
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,14,Natantia,19,0.090047393,211,19
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,10,Natantia,49,0.232227488,211,49
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,6,Natantia,23,0.109004739,211,23
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Gammarid,5,0.023696682,211,5
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Caprellidea,10,0.047393365,211,10
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,2,Natantia,42,0.199052133,211,42
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Gammarid,192,0.909952607,211,24
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Phyllodocida,16,0.075829384,211,2
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Harpac,88,0.417061611,211,11
+Qualicum,19-Jul-16,1.1,Bowser L2,1,,1,10-Dec-16,MM,8,1,Calanoid,24,0.113744076,211,3
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,10,Gammarid,3,0.019230769,156,3
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,6,Gammarid,4,0.025641026,156,4
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,26,Natantia,2,0.012820513,156,2
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,22,Natantia,2,0.012820513,156,2
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,18,Natantia,6,0.038461538,156,6
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,14,Natantia,17,0.108974359,156,17
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,10,Natantia,18,0.115384615,156,18
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,6,Natantia,4,0.025641026,156,4
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,22,Natantia,2,0.012820513,156,2
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Gammarid,9,0.057692308,156,9
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Valvifera,1,0.006410256,156,1
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,2,Natantia,47,0.301282051,156,47
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,1,Gammarid,37,0.237179487,156,37
+Qualicum ,06-Jul-16,1.1,Bowser L4,1,,1,29-Sep-16,MM,1,1,Valvifera,4,0.025641026,156,4
+Qualicum ,06-Jul-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,22,Natantia,1,0.007692308,130,1
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,18,Natantia,9,0.069230769,130,9
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,14,Natantia,21,0.161538462,130,21
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,10,Natantia,13,0.1,130,13
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,6,Natantia,2,0.015384615,130,2
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,18,Natantia,1,0.007692308,130,1
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,42,Natantia,1,0.007692308,130,1
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,26,Fish Larvae,1,0.007692308,130,1
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,14,Brachyura,2,0.015384615,130,2
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,10,Brachyura,2,0.015384615,130,2
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,6,Brachyura,1,0.007692308,130,1
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,2,Gammarid,15,0.115384615,130,15
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,2,Natantia,36,0.276923077,130,36
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Gammarid,11,0.084615385,130,11
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Valvifera,3,0.023076923,130,3
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Harpac,6,0.046153846,130,6
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Mysida,4,0.030769231,130,4
+Qualicum ,06-Jul-16,2.1,Bowser L2,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.007692308,130,1
+Qualicum ,06-Jul-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Gastropod,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Phyllodocida,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Phyllodocida,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,14,Phyllodocida,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Natantia,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,18,Natantia,2,0.002544529,786,2
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,14,Natantia,5,0.006361323,786,5
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,10,Natantia,9,0.011450382,786,9
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Natantia,9,0.011450382,786,9
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,22,Brachyura,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,6,Brachyura,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Gammarid,13,0.01653944,786,13
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Caprellidea,106,0.134860051,786,106
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Valvifera,7,0.008905852,786,7
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Phyllodocida,57,0.072519084,786,57
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Natantia,9,0.011450382,786,9
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Natantia,309,0.393129771,786,309
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,2,Brachyura,9,0.011450382,786,9
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Gammarid,19,0.024173028,786,19
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Caprellidea,91,0.115776081,786,91
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Valvifera,2,0.002544529,786,2
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Phyllodocida,107,0.136132316,786,107
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Appendicularia,2,0.002544529,786,2
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Harpac,1,0.001272265,786,1
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Natantia,10,0.012722646,786,10
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Cumacea,3,0.003816794,786,3
+Qualicum ,22-Jun-16,1.1,Sunny Beach,0,,1,29-Jul-16,MM,1,1,Ostracod,9,0.011450382,786,9
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,6,Phyllodocida,2,0.033333333,60,2
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Gammarid,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Caprellidea,4,0.066666667,60,4
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Phyllodocida,7,0.116666667,60,7
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Harpac,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Natantia,5,0.083333333,60,5
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,2,Cumacea,11,0.183333333,60,11
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Gammarid,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Gastropod,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Phyllodocida,8,0.133333333,60,8
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Harpac,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Calanoid,1,0.016666667,60,1
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Cumacea,16,0.266666667,60,16
+Qualicum ,22-Jun-16,2.1,Sunny Beach,0,,1,27-Jul-16,MM,1,1,Ostracod,1,0.016666667,60,1
+Qualicum ,22-Jun-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,22-Jun-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Caprellidea,2,0.005464481,366,2
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Caprellidea,4,0.010928962,366,4
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Gastropod,2,0.005464481,366,2
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Natantia,1,0.00273224,366,1
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,22,Natantia,2,0.005464481,366,2
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,18,Natantia,17,0.046448087,366,17
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,14,Natantia,26,0.071038251,366,26
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Natantia,71,0.193989071,366,71
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,6,Natantia,38,0.103825137,366,38
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,10,Fish Larvae,2,0.005464481,366,2
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Gammarid,12,0.032786885,366,12
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Caprellidea,6,0.016393443,366,6
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Natantia,140,0.382513661,366,140
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,2,Brachyura,6,0.016393443,366,6
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Gammarid,19,0.051912568,366,19
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Caprellidea,4,0.010928962,366,4
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Gastropod,3,0.008196721,366,3
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Calanoid,2,0.005464481,366,2
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Natantia,1,0.00273224,366,1
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Valvifera,5,0.013661202,366,5
+Qualicum ,22-Jun-16,1.1,Bowser L4,1,,1,03-Aug-16,MM,1,1,Ostracod,3,0.008196721,366,3
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Gammarid,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Caprellidea,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,50,Natantia,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,34,Natantia,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,18,Natantia,10,0.028818444,347,10
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,14,Natantia,25,0.07204611,347,25
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,10,Natantia,49,0.141210375,347,49
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,6,Natantia,26,0.074927954,347,26
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,10,Brachyura,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,14,Brachyura,4,0.011527378,347,4
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Gammarid,18,0.051873199,347,18
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Phyllodocida,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Natantia,149,0.429394813,347,149
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Brachyura,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,2,Fish Larvae,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Gammarid,31,0.089337176,347,31
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Caprellidea,3,0.008645533,347,3
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Cyclopoid,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Harpac,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Calanoid,4,0.011527378,347,4
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Natantia,4,0.011527378,347,4
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Cumacea,3,0.008645533,347,3
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Isopod,10,0.028818444,347,10
+Qualicum ,22-Jun-16,2.1,Bowser L2,1,,1,04-Aug-16,MM,1,1,Phyllodocida,1,0.002881844,347,1
+Qualicum ,22-Jun-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,
+Qualicum ,22-Jun-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Caprellidea,9,0.014263074,631,9
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Echinoderm,3,0.004754358,631,3
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Valvifera,1,0.001584786,631,1
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Phyllodocida,3,0.004754358,631,3
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,6,Natantia,6,0.009508716,631,6
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,10,Fish Larvae,3,0.004754358,631,3
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,30,Fish Larvae,1,0.001584786,631,1
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,22,Brachyura,1,0.001584786,631,1
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Gammarid,43,0.0681458,631,43
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Caprellidea,206,0.326465927,631,206
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Echinoderm,12,0.019017433,631,12
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Phyllodocida,24,0.038034865,631,24
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Natantia,65,0.103011094,631,65
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Fish Larvae,1,0.001584786,631,1
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,2,Brachyura,2,0.003169572,631,2
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Gammarid,72,0.114104596,631,72
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Caprellidea,97,0.153724247,631,97
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Phyllodocida,51,0.080824089,631,51
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Calanoid,5,0.00792393,631,5
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Cumacea,6,0.009508716,631,6
+Qualicum ,06-Jun-16,1.1,Sunny Beach,0,,1,08-Aug-16,MM,1,1,Barnacle,20,0.031695721,631,20
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Gammarid,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Caprellidea,16,0.061538462,260,16
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Natantia,2,0.007692308,260,2
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,2,Cumacea,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Caprellidea,3,0.011538462,260,3
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Phyllodocida,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Appendicularia,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Calanoid,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Cumacea,8,0.030769231,260,8
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Phyllodocida,1,0.003846154,260,1
+Qualicum ,06-Jun-16,2.1,Sunny Beach,0,,1,09-Aug-16,MM,1,1,Ostracod,225,0.865384615,260,225
+Qualicum ,06-Jun-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,06-Jun-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,10,Gastropod,7,0.077777778,90,7
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,22,Natantia,2,0.022222222,90,2
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,18,Natantia,2,0.022222222,90,2
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,14,Natantia,1,0.011111111,90,1
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,10,Natantia,1,0.011111111,90,1
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Gammarid,8,0.088888889,90,8
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Natantia,46,0.511111111,90,46
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,2,Barnacle,1,0.011111111,90,1
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Gammarid,9,0.1,90,9
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Valvifera,4,0.044444444,90,4
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Harpac,2,0.022222222,90,2
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Natantia,1,0.011111111,90,1
+Qualicum ,06-Jun-16,1.1,Bowser L4,1,,0,08-Aug-16,MM,1,1,Barnacle,6,0.066666667,90,6
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,10,Caprellidea,6,0.069767442,86,6
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,6,Caprellidea,4,0.046511628,86,4
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,6,Gastropod,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,14,Natantia,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,10,Natantia,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Gammarid,15,0.174418605,86,15
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Caprellidea,18,0.209302326,86,18
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,2,Echinoderm,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Valvifera,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Natantia,34,0.395348837,86,34
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Cumacea,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Brachyura,1,0.011627907,86,1
+Qualicum ,06-Jun-16,2.1,Bowser L2,1,,1,08-Aug-16,MM,1,1,Cumacea,2,0.023255814,86,2
+Qualicum ,06-Jun-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,06-Jun-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Gammarid,8,0.015717092,509,8
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,10,Caprellidea,2,0.003929273,509,2
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Caprellidea,45,0.088408644,509,45
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,14,Phyllodocida,2,0.003929273,509,2
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Phyllodocida,9,0.017681729,509,9
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,10,Natantia,2,0.003929273,509,2
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Natantia,3,0.00589391,509,3
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,6,Cardidae,1,0.001964637,509,1
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Echinoderm,1,0.001964637,509,1
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Gammarid,76,0.149312377,509,76
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Caprellidea,112,0.220039293,509,112
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Gastropod,3,0.00589391,509,3
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Phyllodocida,22,0.043222004,509,22
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Natantia,100,0.196463654,509,100
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Brachyura,12,0.023575639,509,12
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,2,Barnacle,8,0.015717092,509,8
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Gammarid,61,0.119842829,509,61
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Caprellidea,17,0.033398821,509,17
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Phyllodocida,17,0.033398821,509,17
+Qualicum ,25-May-16,1.1,Sunny Beach,0,1,1,09-Aug-16,MM,1,1,Barnacle,8,0.015717092,509,8
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,10,Brachyura,1,0.009708738,103,1
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Gammarid,16,0.155339806,103,16
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Caprellidea,3,0.029126214,103,3
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Phyllodocida,9,0.087378641,103,9
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Natantia,4,0.038834951,103,4
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Cumacea,6,0.058252427,103,6
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,2,Barnacle,5,0.048543689,103,5
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Gammarid,19,0.184466019,103,19
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Caprellidea,5,0.048543689,103,5
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Gastropod,15,0.145631068,103,15
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Phyllodocida,8,0.077669903,103,8
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Natantia,1,0.009708738,103,1
+Qualicum ,25-May-16,2.1,Sunny Beach,0,1,1,08-Aug-16,MM,1,1,Cumacea,11,0.106796117,103,11
+Qualicum ,25-May-16,1.2,Sunny Beach,0,1,0,,,,,NAN,,,,
+Qualicum ,25-May-16,2.2,Sunny Beach,0,1,0,,,,,NAN,,,,
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Gammarid,2,0.00921659,217,2
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Caprellidea,10,0.046082949,217,10
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,22,Natantia,1,0.004608295,217,1
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gammarid,37,0.170506912,217,37
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Caprellidea,11,0.050691244,217,11
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gastropod,17,0.078341014,217,17
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Phyllodocida,7,0.032258065,217,7
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Natantia,4,0.01843318,217,4
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Brachyura,2,0.00921659,217,2
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gammarid,99,0.456221198,217,99
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Caprellidea,7,0.032258065,217,7
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gastropod,3,0.013824885,217,3
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Valvifera,8,0.036866359,217,8
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Phyllodocida,3,0.013824885,217,3
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Harpac,4,0.01843318,217,4
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Calanoid,1,0.004608295,217,1
+Qualicum ,25-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Barnacle,1,0.004608295,217,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,22,Gammarid,1,0.016129032,62,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,10,Appendicularia,1,0.016129032,62,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,14,Natantia,1,0.016129032,62,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,10,Brachyura,4,0.064516129,62,4
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Gammarid,10,0.161290323,62,10
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Caprellidea,1,0.016129032,62,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Gastropod,7,0.112903226,62,7
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Natantia,6,0.096774194,62,6
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Brachyura,2,0.032258065,62,2
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,2,Barnacle,2,0.032258065,62,2
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Gammarid,6,0.096774194,62,6
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Caprellidea,2,0.032258065,62,2
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Gastropod,3,0.048387097,62,3
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Valvifera,1,0.016129032,62,1
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Harpac,3,0.048387097,62,3
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Calanoid,8,0.129032258,62,8
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Cumacea,2,0.032258065,62,2
+Qualicum ,25-May-16,2.1,Bowser L4,1,,1,09-Aug-16,MM,1,1,Brachyura,2,0.032258065,62,2
+Qualicum ,25-May-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,25-May-16,2.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,6,Gammarid,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,30,Natantia,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,22,Natantia,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,18,Natantia,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,14,Natantia,2,0.032786885,61,2
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,10,Natantia,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,6,Natantia,2,0.032786885,61,2
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Gammarid,30,0.491803279,61,30
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Valvifera,1,0.016393443,61,1
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Appendicularia,5,0.081967213,61,5
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Harpac,7,0.114754098,61,7
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Calanoid,8,0.131147541,61,8
+Qualicum ,10-May-16,2.1,Bowser L2,1,,1,24-Aug-16,MM,1,1,Cumacea,1,0.016393443,61,1
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,6,Gammarid,2,0.008928571,224,2
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,22,Natantia,2,0.008928571,224,2
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,18,Natantia,2,0.008928571,224,2
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,34,Natantia,1,0.004464286,224,1
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,10,Brachyura,1,0.004464286,224,1
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,10,Fish Larvae,1,0.004464286,224,1
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gammarid,67,0.299107143,224,67
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Gastropod,2,0.008928571,224,2
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Phyllodocida,2,0.008928571,224,2
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,2,Natantia,3,0.013392857,224,3
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Gammarid,136,0.607142857,224,136
+Qualicum ,10-May-16,1.1,Bowser L4,1,,1,24-Aug-16,MM,1,1,Calanoid,5,0.022321429,224,5
+Qualicum ,10-May-16,2.2,Bowser L2,1,,0,,,,,NAN,,,,
+Qualicum ,10-May-16,1.2,Bowser L4,1,,0,,,,,NAN,,,,
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Gammarid,1,0.000706714,1415,0.166666667
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,10,Caprellidea,2,0.001413428,1415,0.333333333
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Caprellidea,3,0.002120141,1415,0.5
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Phyllodocida,1,0.000706714,1415,0.166666667
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,18,Natantia,7,0.004946996,1415,1.166666667
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,14,Natantia,14,0.009893993,1415,2.333333333
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,10,Natantia,6,0.004240283,1415,1
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Natantia,2,0.001413428,1415,0.333333333
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,6,Brachyura,3,0.002120141,1415,0.5
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Gammarid,168,0.118727915,1415,28
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Caprellidea,27,0.019081272,1415,4.5
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Gastropod,10,0.007067138,1415,1.666666667
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Phyllodocida,75,0.053003534,1415,12.5
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Natantia,36,0.025441696,1415,6
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Echinoderm,3,0.002120141,1415,0.5
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,2,Bivalvia,7,0.004946996,1415,1.166666667
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Gammarid,360,0.254416961,1415,60
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Caprellidea,114,0.080565371,1415,19
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Phyllodocida,552,0.390106007,1415,92
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Calanoid,18,0.012720848,1415,3
+Qualicum ,10-May-16,1.1,Sunny Beach,0,,1,25-Aug-16,MM,6,1,Bivalvia,6,0.004240283,1415,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,6,Gammarid,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,14,Natantia,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,6,Cumacea,3,0.011278195,266,3
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,10,Cumacea,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Gammarid,23,0.086466165,266,23
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Caprellidea,3,0.011278195,266,3
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Valvifera,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Phyllodocida,5,0.018796992,266,5
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Calanoid,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Mysida,2,0.007518797,266,2
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Natantia,5,0.018796992,266,5
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Cumacea,13,0.04887218,266,13
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,2,Barnacle,10,0.037593985,266,10
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Gammarid,25,0.093984962,266,25
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Caprellidea,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Gastropod,2,0.007518797,266,2
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Valvifera,1,0.003759398,266,1
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Phyllodocida,57,0.214285714,266,57
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Appendicularia,2,0.007518797,266,2
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Harpac,25,0.093984962,266,25
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Calanoid,53,0.19924812,266,53
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Mysida,2,0.007518797,266,2
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Cumacea,28,0.105263158,266,28
+Qualicum ,10-May-16,2.1,Sunny Beach,0,,1,25-Aug-16,MM,1,1,Echinoderm,1,0.003759398,266,1
+Qualicum ,10-May-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,10-May-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Gammarid,3,0.006060606,495,3
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,10,Caprellidea,1,0.002020202,495,1
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Caprellidea,3,0.006060606,495,3
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Cumacea,5,0.01010101,495,5
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,6,Brachyura,1,0.002020202,495,1
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,22,Fish Larvae,1,0.002020202,495,1
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Gammarid,203,0.41010101,495,203
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Caprellidea,7,0.014141414,495,7
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Gastropod,4,0.008080808,495,4
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Phyllodocida,10,0.02020202,495,10
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Cumacea,66,0.133333333,495,66
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,2,Brachyura,3,0.006060606,495,3
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Gammarid,73,0.147474747,495,73
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cladoceran,5,0.01010101,495,5
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Phyllodocida,77,0.155555556,495,77
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cyclopoid,2,0.004040404,495,2
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Harpac,16,0.032323232,495,16
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Natantia,7,0.014141414,495,7
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Natantia,1,0.002020202,495,1
+Qualicum ,25-Apr-16,1.1,Sunny Beach,0,1,1,10-Aug-16,MM,1,1,Cumacea,7,0.014141414,495,7
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Gammarid,28,0.048192771,581,28
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Natantia,3,0.005163511,581,3
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,14,Natantia,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Natantia,4,0.006884682,581,4
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Cumacea,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,6,Brachyura,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,10,Pleuronecti,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Gammarid,364,0.626506024,581,364
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Caprellidea,3,0.005163511,581,3
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Valvifera,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Phyllodocida,6,0.010327022,581,6
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Natantia,22,0.037865749,581,22
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Natantia,10,0.017211704,581,10
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Cumacea,22,0.037865749,581,22
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,2,Brachyura,2,0.003442341,581,2
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Gammarid,41,0.070567986,581,41
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Cladoceran,13,0.022375215,581,13
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Phyllodocida,29,0.049913941,581,29
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Harpac,8,0.013769363,581,8
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Calanoid,16,0.027538726,581,16
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Natantia,1,0.00172117,581,1
+Qualicum ,25-Apr-16,2.1,Sunny Beach,0,,1,10-Aug-16,MM,1,1,Cumacea,4,0.006884682,581,4
+Qualicum ,25-Apr-16,2.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,25-Apr-16,1.2,Sunny Beach,0,,0,,,,,NAN,,,,
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,6,Gammarid,8,0.009803922,816,8
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,10,Gammarid,1,0.00122549,816,1
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,10,Phyllodocida,1,0.00122549,816,1
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,14,Natantia,1,0.00122549,816,1
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,26,Fish Larvae,1,0.00122549,816,1
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Gammarid,501,0.613970588,816,501
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Phyllodocida,6,0.007352941,816,6
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,2,Natantia,4,0.004901961,816,4
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Gammarid,238,0.291666667,816,238
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Gastropod,5,0.006127451,816,5
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Valvifera,1,0.00122549,816,1
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Appendicularia,25,0.030637255,816,25
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Harpac,4,0.004901961,816,4
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Calanoid,18,0.022058824,816,18
+Qualicum ,25-Apr-16,1.1,Bowser L4,1,1,1,09-Aug-16,MM,1,1,Cumacea,2,0.00245098,816,2
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Gammarid,3,0.00305499,982,3
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,6,Gammarid,3,0.00305499,982,3
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,18,Natantia,1,0.00101833,982,1
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,14,Natantia,2,0.00203666,982,2
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Natantia,2,0.00203666,982,2
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,10,Brachyura,7,0.00712831,982,7
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,6,Brachyura,2,0.00203666,982,2
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,8,Fish Larvae,1,0.00101833,982,1
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Gammarid,406,0.413441955,982,406
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Appendicularia,16,0.016293279,982,16
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Natantia,18,0.018329939,982,18
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Natantia,3,0.00305499,982,3
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Cumacea,1,0.00101833,982,1
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,2,Brachyura,4,0.00407332,982,4
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Gammarid,307,0.312627291,982,307
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Gastropod,4,0.00407332,982,4
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Phyllodocida,2,0.00203666,982,2
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Appendicularia,22,0.022403259,982,22
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Harpac,76,0.077393075,982,76
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Calanoid,99,0.100814664,982,99
+Qualicum ,25-Apr-16,2.1,Bowser L2,1,1,1,09-Aug-16,MM,1,1,Natantia,3,0.00305499,982,3
+Qualicum ,25-Apr-16,2.2,Bowser L2,1,1,0,,,,,NAN,,,,
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,6,Gammarid,5,0.009727626,514,5
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,10,Gammarid,3,0.005836576,514,3
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,6,Cumacea,1,0.001945525,514,1
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,30,Brachyura,30,0.058365759,514,30
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Gammarid,281,0.546692607,514,281
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Valvifera,1,0.001945525,514,1
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Phyllodocida,2,0.003891051,514,2
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Mysida,2,0.003891051,514,2
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Cumacea,62,0.120622568,514,62
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,2,Brachyura,2,0.003891051,514,2
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Gammarid,108,0.210116732,514,108
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Phyllodocida,10,0.019455253,514,10
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Calanoid,5,0.009727626,514,5
+Qualicum ,11-Apr-16,1.1,Sunny Beach ,0,1,1,25-Aug-16,MM,1,1,Cumacea,2,0.003891051,514,2
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Gammarid,224,0.386873921,579,224
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Caprellidea,3,0.005181347,579,
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,2,Cumacea,40,0.069084629,579,
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Gammarid,216,0.373056995,579,27
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Harpac,32,0.055267703,579,4
+Qualicum ,11-Apr-16,2.1,Sunny Beach,0,1,1,10-Dec-16,MM,8,1,Calanoid,64,0.110535406,579,8
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,10,Gammarid,1,0.001540832,649,1
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,6,Gammarid,14,0.021571649,649,14
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,6,Gastropod,4,0.006163328,649,4
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,22,Natantia,2,0.003081664,649,2
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Gammarid,306,0.471494607,649,306
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Phyllodocida,8,0.012326656,649,8
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Appendicularia,2,0.003081664,649,2
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Calanoid,8,0.012326656,649,8
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Natantia,4,0.006163328,649,4
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,2,Natantia,1,0.001540832,649,1
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Gammarid,146,0.224961479,649,146
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Phyllodocida,6,0.009244992,649,6
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Appendicularia,3,0.004622496,649,3
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Harpac,30,0.046224961,649,30
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Calanoid,112,0.17257319,649,112
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Cumacea,1,0.001540832,649,1
+Qualicum ,11-Apr-16,1.1,Bowser L4,1,1,1,28-Jul-16,MM,1,1,Isopod,1,0.001540832,649,1
+Qualicum ,11-Apr-16,1.2,Bowser L4,1,1,0,,,,,NAN,,,,
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,18,Natantia,1,0.002252252,444,1
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,14,Natantia,4,0.009009009,444,4
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,6,Brachyura,1,0.002252252,444,1
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,2,Gammarid,220,0.495495495,444,220
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,2,Natantia,2,0.004504505,444,2
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Gammarid,144,0.324324324,444,18
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Harpac,16,0.036036036,444,2
+Qualicum ,11-Apr-16,2.1,Bowser L2,1,1,1,10-Dec-16,MM,8,1,Calanoid,56,0.126126126,444,7
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,32,Valvifera,1,0.007874016,127,1
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,24,Valvifera,1,0.007874016,127,1
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Phyllodocida,1,0.007874016,127,1
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Barnacle,2,0.015748031,127,2
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Gammarid,3,0.023622047,127,3
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Cladoceran,5,0.039370079,127,5
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Phyllodocida,94,0.74015748,127,94
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Appendicularia,1,0.007874016,127,1
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Harpac,16,0.125984252,127,16
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Calanoid,2,0.015748031,127,2
+Koeye,7-Aug-16,1.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Cumacea,1,0.007874016,127,1
+Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Gammarid,1,0.001572327,636,1
+Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,7,0.011006289,636,7
+Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,251,0.394654088,636,251
+Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Calanoid,1,0.001572327,636,1
+Koeye,7-Aug-16,2.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cumacea,2,0.003144654,636,2
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Gammarid,2,0.003144654,636,2
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,2,Euphausiid,1,0.001572327,636,1
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Gammarid,1,0.001572327,636,1
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Phyllodocida,357,0.561320755,636,357
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Harpac,11,0.017295597,636,11
+Koeye,7-Aug-16,2.1,Koeye,0,1,1,27-Sep-16,MM,1,1,Calanoid,2,0.003144654,636,2
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,2,Gammarid,5,0.004132231,1210,1.25
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,2,Brachyura,1,0.000826446,1210,0.25
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Gammarid,20,0.016528926,1210,5
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Phyllodocida,40,0.033057851,1210,10
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Harpac,1136,0.938842975,1210,284
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Calanoid,4,0.003305785,1210,1
+Koeye,7-Aug-16,1.1,Koeye,1,,1,27-Sep-16,MM,4,1,Cumacea,4,0.003305785,1210,1
+Koeye,7-Aug-16,2.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,7-Aug-16,2.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,7-Aug-16,1.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,7-Aug-16,1.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,9-Jul-16,1.2,Koeye,0,1,0,,,,,NAN,,,,
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,6,Gammarid,1,0.038461538,26,1
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,14,Valvifera,1,0.038461538,26,1
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,2,Euphausiid,2,0.076923077,26,2
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Gammarid,2,0.076923077,26,2
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Cladoceran,1,0.038461538,26,1
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Phyllodocida,3,0.115384615,26,3
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Appendicularia,2,0.076923077,26,2
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Harpac,8,0.307692308,26,8
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Calanoid,5,0.192307692,26,5
+Koeye,9-Jul-16,1.1,Koeye,1,1,1,29-Sep-16,MM,1,1,Cumacea,1,0.038461538,26,1
+Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,10,Natantia,1,0.025,40,1
+Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Gammarid,1,0.025,40,1
+Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Phyllodocida,1,0.025,40,1
+Koeye,9-Jul-16,1.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Calanoid,1,0.025,40,1
+Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Phyllodocida,16,0.4,40,16
+Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Cyclopoid,1,0.025,40,1
+Koeye,9-Jul-16,2.1,Koeye,0,1,1,29-Sep-16,MM,1,1,Calanoid,1,0.025,40,1
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Gammarid,2,0.05,40,2
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Cladoceran,2,0.05,40,2
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Valvifera,1,0.025,40,1
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Harpac,4,0.1,40,4
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Calanoid,5,0.125,40,5
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Cumacea,3,0.075,40,3
+Koeye,9-Jul-16,2.1,Koeye,1,1,1,28-Sep-16,MM,1,1,Ostracod,1,0.025,40,1
+Koeye,09-Jul-16,2.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,09-Jul-16,2.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,09-Jul-16,1.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,11-Jun-16,2.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,11-Jun-16,1.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,11-Jun-16,2.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,11-Jun-16,1.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Gammarid,1,0.016949153,59,1
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Cladoceran,7,0.118644068,59,7
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Harpac,4,0.06779661,59,4
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Calanoid,16,0.271186441,59,16
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Barnacle,3,0.050847458,59,3
+Koeye,11-Jun-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Ostracod,28,0.474576271,59,28
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,2,Gammarid,1,0.006944444,144,1
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,2,Harpac,1,0.006944444,144,1
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Gammarid,25,0.173611111,144,25
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Cladoceran,4,0.027777778,144,4
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Valvifera,1,0.006944444,144,1
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Phyllodocida,4,0.027777778,144,4
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Harpac,54,0.375,144,54
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Calanoid,1,0.006944444,144,1
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Cumacea,4,0.027777778,144,4
+Koeye,11-Jun-16,2.1,Koeye,1,,1,28-Sep-16,MM,1,1,Ostracod,49,0.340277778,144,49
+Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Phyllodocida,5,0.357142857,14,5
+Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Harpac,1,0.071428571,14,1
+Koeye,11-Jun-16,2.1,Koeye,0,,1,29-Sep-16,MM,1,1,Calanoid,8,0.571428571,14,8
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,82,Phyllodocida,1,0.006134969,163,1
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Gammarid,27,0.165644172,163,27
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,1,0.006134969,163,1
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Phyllodocida,2,0.012269939,163,2
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,47,0.288343558,163,47
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cumacea,1,0.006134969,163,1
+Koeye,11-Jun-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Ostracod,84,0.515337423,163,84
+Koeye,11-May-16,1.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,11-May-16,1.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,11-May-16,2.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,10,Gammarid,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,14,Valvifera,2,0.019417476,103,2
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,6,Valvifera,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,6,Brachyura,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,26,Pleuronecti,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,4,0.038834951,103,4
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cladoceran,3,0.029126214,103,3
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,2,0.019417476,103,2
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Phyllodocida,15,0.145631068,103,15
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,66,0.640776699,103,66
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Calanoid,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Barnacle,1,0.009708738,103,1
+Koeye,11-May-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,4,0.038834951,103,4
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Cladoceran,4,0.057971014,69,4
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Appendicularia,1,0.014492754,69,1
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Harpac,2,0.028985507,69,2
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Calanoid,38,0.550724638,69,38
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Barnacle,23,0.333333333,69,23
+Koeye,11-May-16,1.1,Koeye,1,,1,27-Sep-16,MM,1,1,Ostracod,1,0.014492754,69,1
+Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Gammarid,1,0.035714286,28,1
+Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Cladoceran,1,0.035714286,28,1
+Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Harpac,1,0.035714286,28,1
+Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Calanoid,22,0.785714286,28,22
+Koeye,11-May-16,1.1,Koeye,0,,1,27-Sep-16,MM,1,1,Barnacle,3,0.107142857,28,3
+Koeye,11-May-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Ostracod,1,0.111111111,9,1
+Koeye,11-May-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Calanoid,8,0.888888889,9,8
+Koeye,30-Apr-16,2.2,Koeye,1,,0,,,,1,NAN,,,,
+Koeye,30-Apr-16,1.2,Koeye,1,,0,,,,,NAN,,,,
+Koeye,30-Apr-16,2.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,30-Apr-16,1.2,Koeye,0,,0,,,,,NAN,,,,
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,23,0.433962264,53,23
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,1,0.018867925,53,1
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Phyllodocida,4,0.075471698,53,4
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,2,0.037735849,53,2
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Calanoid,1,0.018867925,53,1
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Cumacea,1,0.018867925,53,1
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Echinoderm,1,0.018867925,53,1
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,7,0.132075472,53,7
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Gammarid,5,0.094339623,53,5
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Valvifera,5,0.094339623,53,5
+Koeye,30-Apr-16,1.1,Koeye,1,,1,29-Sep-16,MM,1,2,Barnacle,3,0.056603774,53,3
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Gammarid,4,0.078431373,51,4
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,2,Phyllodocida,1,0.019607843,51,1
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Gammarid,2,0.039215686,51,2
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Valvifera,1,0.019607843,51,1
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Phyllodocida,10,0.196078431,51,10
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Harpac,2,0.039215686,51,2
+Koeye,30-Apr-16,1.1,Koeye,0,,1,29-Sep-16,MM,1,1,Ostracod,16,0.31372549,51,16
+Koeye,30-Apr-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Phyllodocida,7,0.137254902,51,7
+Koeye,30-Apr-16,2.1,Koeye,0,,1,28-Sep-16,MM,1,1,Ostracod,8,0.156862745,51,8
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Gammarid,44,0.494382022,89,44
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Valvifera,4,0.04494382,89,4
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,2,Phyllodocida,2,0.02247191,89,2
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Gammarid,23,0.258426966,89,23
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Hyperiidea,2,0.02247191,89,2
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Valvifera,1,0.011235955,89,1
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Harpac,9,0.101123596,89,9
+Koeye,30-Apr-16,2.1,Koeye,1,,1,29-Sep-16,MM,1,1,Ostracod,4,0.04494382,89,4
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,2,Phyllodocida,2,0.004366812,458,1
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,2,Cumacea,2,0.004366812,458,1
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Cladoceran,4,0.008733624,458,2
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Valvifera,4,0.008733624,458,2
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Phyllodocida,6,0.013100437,458,3
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Appendicularia,6,0.013100437,458,3
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Harpac,150,0.327510917,458,75
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Calanoid,282,0.615720524,458,141
+Tahsis,23-Jun-16,1.1,,0,,1,27-Oct-16,MM,2,1,Cumacea,2,0.004366812,458,1
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,10,Fish Larvae,1,0.000333111,3002,0.1
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,2,Natantia,1,0.000333111,3002,0.1
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Cladoceran,80,0.026648901,3002,8
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Valvifera,20,0.006662225,3002,2
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Phyllodocida,10,0.003331113,3002,1
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Harpac,110,0.036642239,3002,11
+Tahsis,23-Jun-16,1.1,,1,,1,24-Oct-16,MM,10,1,Calanoid,2780,0.9260493,3002,278
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Mysida,1,0.000295683,3382,0.125
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Natantia,2,0.000591366,3382,0.25
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Cumacea,2,0.000591366,3382,0.25
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,4,Mysida,1,0.000295683,3382,0.125
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Cladoceran,72,0.021289178,3382,9
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Phyllodocida,8,0.002365464,3382,1
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Appendicularia,32,0.009461857,3382,4
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Harpac,280,0.082791248,3382,35
+Tahsis,23-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Calanoid,2984,0.882318155,3382,373
+Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Phyllodocida,80,0.033444816,299,10
+Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Harpac,48,0.02006689,299,6
+Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Calanoid,2224,0.929765886,299,278
+Tahsis,23-Jun-16,2.1,,0,,1,10-Dec-16,MM,8,1,Cladoceran,40,0.016722408,299,5
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Gammarid,1,0.000423729,2360,0.125
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Calanoid,1,0.000423729,2360,0.125
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Natantia,4,0.001694915,2360,0.5
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,2,Cumacea,1,0.000423729,2360,0.125
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,26,Fish Larvae,1,0.000423729,2360,0.125
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Cladoceran,16,0.006779661,2360,2
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Phyllodocida,56,0.023728814,2360,7
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Appendicularia,16,0.006779661,2360,2
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Harpac,296,0.125423729,2360,37
+Tahsis,08-Jun-16,1.1,,1,,1,27-Oct-16,MM,8,1,Calanoid,1968,0.833898305,2360,246
+Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,1,Harpac,1920,0.025972269,73925,6
+Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,1,Calanoid,72000,0.973960095,73925,225
+Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Calanoid,2,2.70544E-05,73925,0.00625
+Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Natantia,1,1.35272E-05,73925,0.003125
+Tahsis,26-May-16,1.1,,1,,1,27-Oct-16,MM,320,2,Cumacea,2,2.70544E-05,73925,0.00625
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Phyllodocida,1,0.001008403,991.6666667,0.3
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Natantia,3,0.00302521,991.6666667,0.9
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,2,Fish Larvae,1,0.001008403,991.6666667,0.3
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Appendicularia,13.33333333,0.013445378,991.6666667,4
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Harpac,543.3333333,0.54789916,991.6666667,163
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Calanoid,426.6666667,0.430252101,991.6666667,128
+Tahsis,26-May-16,1.1,,0,,1,24-Oct-16,MM,3.333333333,1,Cumacea,3.333333333,0.003361345,991.6666667,1
+Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Harpac,128,0.119402985,1072,
+Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Phyllodocida,16,0.014925373,1072,
+Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Calanoid,896,0.835820896,1072,
+Tahsis,26-May-16,2.1,,0,,1,10-Dec-16,MM,4,1,Cladoceran,32,0.029850746,1072,
+Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,2,Gammarid,2,0.00078064,2562,
+Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Appendicularia,16,0.006245121,2562,
+Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Harpac,56,0.021857923,2562,
+Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Calanoid,2472,0.964871194,2562,
+Tahsis,26-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Cladoceran,16,0.006245121,2562,2
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Cladoceran,200,0.033647376,5944,10
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Phyllodocida,120,0.020188425,5944,6
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Harpac,360,0.060565276,5944,18
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,1,Calanoid,5260,0.884925976,5944,263
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,2,Harpac,1,0.000168237,5944,0.05
+Tahsis,10-May-16,1.1,,0,,1,08-Oct-16,MM,20,2,Cumacea,3,0.000504711,5944,0.15
+Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Cladoceran,6,0.001502755,3992.666667,0.45
+Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Phyllodocida,53.33333333,0.013357823,3992.666667,4
+Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Harpac,160,0.040073468,3992.666667,12
+Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Calanoid,3760,0.941726499,3992.666667,282
+Tahsis,10-May-16,1.1,,1,,1,05-Oct-16,MM,13.33333333,1,Natantia,13.33333333,0.003339456,3992.666667,1
+Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Appendicularia,8,0.003558719,281,1
+Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Harpac,40,0.017793594,281,5
+Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Calanoid,2176,0.96797153,281,272
+Tahsis,10-May-16,2.1,,0,,1,10-Dec-16,MM,8,1,Cladoceran,24,0.010676157,281,3
+Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Phyllodocida,24,0.015384615,195,3
+Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Appendicularia,8,0.005128205,195,1
+Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Harpac,48,0.030769231,195,6
+Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Calanoid,1472,0.943589744,195,184
+Tahsis,10-May-16,2.1,,1,,1,10-Dec-16,MM,8,1,Mysida,8,0.005128205,195,1
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,2,Natantia,1,0.000494071,2024,0.1
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,2,Cumacea,3,0.001482213,2024,0.3
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Cladoceran,40,0.019762846,2024,4
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Valvifera,10,0.004940711,2024,1
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Appendicularia,20,0.009881423,2024,2
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Harpac,160,0.079051383,2024,16
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Calanoid,1700,0.839920949,2024,170
+Tahsis,08-Jun-16,1.1,,0,,1,24-Oct-16,MM,10,1,Cumacea,90,0.044466403,2024,9
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Appendicularia,26.66666667,0.007782101,257,2
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Harpac,280,0.081712062,257,21
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Calanoid,3026.666667,0.883268482,257,227
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Cumacea,26.66666667,0.007782101,257,2
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Brachyura,13.33333333,0.003891051,257,1
+Tahsis,08-Jun-16,2.1,,0,,1,10-Dec-16,MM,13.33333333,1,Cladoceran,53.33333333,0.015564202,257,4
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,14,Cumacea,1,0.000202799,4931,0.125
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Valvifera,3,0.000608396,4931,0.375
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Phyllodocida,1,0.000202799,4931,0.125
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Natantia,12,0.002433583,4931,1.5
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,2,Fish Larvae,1,0.000202799,4931,0.125
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Appendicularia,16,0.003244778,4931,2
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Harpac,1840,0.373149463,4931,230
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Calanoid,3056,0.619752586,4931,382
+Tahsis,08-Jun-16,2.1,,1,,1,24-Oct-16,MM,8,1,Brachyura,1,0.000202799,4931,0.125
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Cumacea,1,0.011627907,86,1
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Calanoid,5,0.058139535,86,5
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Harpac,69,0.802325581,86,69
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Phyllodocida,6,0.069767442,86,6
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,1,Gammarid,3,0.034883721,86,3
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,2,Cumacea,1,0.011627907,86,1
+Bedwell,9-Jun-16,3.1,ES3,1,,1,05-Oct-16,MM,1,2,Phyllodocida,1,0.011627907,86,1
+Bedwell,9-Jun-16,3.2,ES3,1,,1,20-Dec-16,MM,1,1,Harpac,31,0.837837838,37,31
+Bedwell,9-Jun-16,3.2,ES3,1,,1,20-Dec-16,MM,1,1,Calanoid,2,0.054054054,37,2
+Bedwell,9-Jun-16,3.2,ES3,1,,1,20-Dec-16,MM,1,1,Ostracod,2,0.054054054,37,2
+Bedwell,9-Jun-16,3.2,ES3,1,,1,20-Dec-16,MM,1,1,Phyllodocida,2,0.054054054,37,2
+Bedwell,9-Jun-16,3.2,,,,0,,,,,NAN,,,,
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Cumacea,96,0.328767123,292,96
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Harpac,133,0.455479452,292,133
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Phyllodocida,20,0.068493151,292,20
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Cladoceran,1,0.003424658,292,1
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,1,Gammarid,10,0.034246575,292,10
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Brachyura,1,0.003424658,292,1
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Cumacea,20,0.068493151,292,20
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Phyllodocida,5,0.017123288,292,5
+Bedwell,27-May-16,1.1,ES3,1,,1,05-Oct-16,MM,1,2,Gammarid,6,0.020547945,292,6
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,2,Valvifera,1,0.003484321,287,1
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,2,Phyllodocida,1,0.003484321,287,1
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Gammarid,8,0.027874564,287,8
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Cladoceran,3,0.010452962,287,3
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,15,0.052264808,287,15
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Harpac,210,0.731707317,287,210
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Calanoid,4,0.013937282,287,4
+Bedwell,27-May-16,4.1,,0,,1,04-Oct-16,MM,1,1,Cumacea,45,0.156794425,287,45
+Bedwell,27-May-16,1.2,ES4,1,,0,20-Dec-16,MM,1,1,Harpac,3,0.214285714,14,3
+Bedwell,27-May-16,1.2,ES4,1,,0,20-Dec-16,MM,1,1,Calanoid,1,0.071428571,14,1
+Bedwell,27-May-16,1.2,ES4,1,,0,20-Dec-16,MM,1,1,Cladoceran,10,0.714285714,14,10
+Bedwell,27-May-16,1.2,ES3,1,,1,20-Dec-16,MM,1,1,Harpac,12,0.387096774,31,12
+Bedwell,27-May-16,1.2,ES3,1,,1,20-Dec-16,MM,1,1,Phyllodocida,12,0.387096774,31,12
+Bedwell,27-May-16,1.2,ES3,1,,1,20-Dec-16,MM,1,1,Cumacea,1,0.032258065,31,1
+Bedwell,27-May-16,1.2,ES3,1,,1,20-Dec-16,MM,1,1,Cladoceran,6,0.193548387,31,6
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,2,Gammarid,1,0.005882353,170,1
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,2,Cumacea,4,0.023529412,170,4
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Gammarid,11,0.064705882,170,11
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Cladoceran,2,0.011764706,170,2
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Phyllodocida,5,0.029411765,170,5
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Harpac,127,0.747058824,170,127
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Calanoid,4,0.023529412,170,4
+Bedwell,11-May-16,3.1,,1,,1,05-Oct-16,MM,1,1,Cumacea,16,0.094117647,170,16
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Gammarid,3,0.002308286,1299.66541,0.9000009
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Harpac,7,0.005386002,1299.66541,2.1000021
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,2,Cumacea,17,0.01308029,1299.66541,5.1000051
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Phyllodocida,3,0.002308286,1299.66541,0.9000009
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Harpac,1256.66541,0.966914561,1299.66541,377
+Bedwell,28-Apr-16,3.1,,1,,1,04-Oct-16,MM,3.33333,1,Cumacea,13,0.010002574,1299.66541,3.9000039
+Bedwell,28-Apr-16,4.2,,1,,1,20-Dec-16,MM,1,1,Harpac,142,0.959459459,148,142
+Bedwell,28-Apr-16,4.2,,1,,1,20-Dec-16,MM,1,1,Calanoid,1,0.006756757,148,1
+Bedwell,28-Apr-16,4.2,,1,,1,20-Dec-16,MM,1,1,Cumacea,2,0.013513514,148,2
+Bedwell,28-Apr-16,4.2,,1,,1,20-Dec-16,MM,1,1,Cladoceran,3,0.02027027,148,3
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Gammarid,2,0.024096386,83,2
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,3,0.036144578,83,3
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Appendicularia,14,0.168674699,83,14
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Harpac,23,0.277108434,83,23
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Calanoid,37,0.445783133,83,37
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,1,Ostracod,3,0.036144578,83,3
+Bedwell,14-Apr-16,3.1,,0,,1,04-Oct-16,MM,1,2,Gammarid,1,0.012048193,83,1
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,2,Phyllodocida,1,0.004975124,201,1
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Gammarid,6,0.029850746,201,6
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Cladoceran,3,0.014925373,201,3
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Valvifera,1,0.004975124,201,1
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Phyllodocida,5,0.024875622,201,5
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Harpac,146,0.726368159,201,146
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Calanoid,15,0.074626866,201,15
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Cumacea,20,0.099502488,201,20
+Bedwell,14-Apr-16,3.2,,0,,1,04-Oct-16,MM,1,1,Ostracod,4,0.019900498,201,4
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,29717.26576

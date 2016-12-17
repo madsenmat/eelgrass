@@ -1,9 +1,12 @@
 ---
-title: "Eelgrass_Stats"
+title: "MNO_Eelgrass"
 author: "Matt Madsen"
-date: "December 11, 2016"
+date: "December 17, 2016"
 output: github_document
 ---
+
+#This differs from last analysis by removing any samples with less than 200 individuals counted 
+
 #Next steps 
 
 1. Add in the highest relative abundances into each table 
@@ -33,6 +36,8 @@ library(forestplot)
 #Load all Data, pull out information we want. 
 ```{r}
 invert_all <- read_csv("CountNormalizedEelgrassCompiledDateChange.csv")
+invert_all <- invert_all %>% 
+  filter(Sum >200)
 invert_all$date <- as.Date(invert_all$date, format = "%d-%h-%y")
 invert_all_comp <- invert_all %>%
      filter(comp == 1)
@@ -60,8 +65,9 @@ invert_all_digested <- invert_all_comp %>%
   select(region, date, set, habitat, Paired, sz_orgnsm, count, rel_abun, rel_abun_per)
 
 
-write_csv(invert_all_digested, "eelgrass_digested.csv")
+write_csv(invert_all_digested, "eelgrass_digested_over200.csv")
 ```
+
 
 
 #Summarize Data for mean, n and total across the regions for each respective individual and habitat.
@@ -73,6 +79,7 @@ SE <- function(x) sd(x)/sqrt(length(x))
   select(region, habitat, rel_abun_per, sz_orgnsm, count) %>% 
    group_by(region, sz_orgnsm, habitat) %>% 
    summarise(mean_abun_per = mean(rel_abun_per), SE = SE(rel_abun_per), n= n_distinct(rel_abun_per), total= sum(count)))
+
 ```
 
 #Make all NA turn into 0 
@@ -118,7 +125,7 @@ spread_n[is.na(spread_n)] <- 0
   select(region, sz_orgnsm, n_total))
 
   (joined <- full_join(spread_mean,spread_SE))
-
+ 
 joined <- joined %>% 
 mutate(upper = Hab_diff + 1.96*SE_Total, lower = Hab_diff - 1.96*SE_Total) %>% 
   select(Hab_diff, upper, lower)
@@ -161,14 +168,14 @@ frasertext <- rbind(top,new1)
 ##Fraser Plot 
 ```{r}
 
-png("forestfraser.png", width=8, height=11, units="in", res=300)
+png("forestfraser200.png", width=8, height=11, units="in", res=300)
 forestfraser <- forestplot(frasertext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
                            txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.7), 
                            ticks = gpar(cex=0.75)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
-                           title = "Fraser", 
+                           title = "Fraser with >200 ind.", 
                            xlab= "Diff. in R.A. of Eel. vs. Non Eel. (Mean % ± 95% C.I.)", 
                            boxsize = 0.2, 
                            hrzl_lines = list("3" = gpar(col="#444444")), 
@@ -213,14 +220,14 @@ tahsistext <- rbind(top,new1)
 
 
 ```{r}
-png("foresttahsis.png", width=8, height=11, units="in", res=300)
+png("foresttahsis200.png", width=8, height=11, units="in", res=300)
 
 foresttahsis <- forestplot(tahsistext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
                            txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.70), ticks = gpar(cex=0.75)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
-                           title = "tahsis",
+                           title = "tahsis > 200 ind.",
                            xlab= "Diff. in R.A. of Eel. vs. Non Eel. (Mean % ± 95% C.I.)",
                            boxsize = 0.2,
                            hrzl_lines = list("3" = gpar(col="#444444")), 
@@ -263,14 +270,14 @@ Qualicumtext <- rbind(top,new1)
 
 
 ```{r}
-png("forestqualicum.png", width= 15 , height=20, units="in", res=300)
+png("forestqualicum200.png", width= 15 , height=20, units="in", res=300)
 
 forestQualicum <- forestplot(Qualicumtext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
                            txt_gp= fpTxtGp(cex= 1.5, xlab = gpar(cex=2), ticks = gpar(cex=1.5)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
-                           title = "Qualicum",
+                           title = "Qualicum > 200 ind.",
                            xlab= "Diff. in R.A. of Eel. vs. Non Eel. (Mean % ± 95% C.I.)",
                            boxsize = 0.3,
                            hrzl_lines = list("3" = gpar(col="#444444")), 
@@ -316,14 +323,14 @@ koeyetext <- rbind(top,new1)
 
 
 ```{r}
-png("forestkoeye.png", width= 8 , height=11, units="in", res=300)
+png("forestkoeye200.png", width= 8 , height=11, units="in", res=300)
 
 forestkoeye <- forestplot(koeyetext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
                            txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.7), ticks = gpar(cex=0.75)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
-                           title = "Koeye",
+                           title = "Koeye >200 ind.",
                            xlab= "Diff. in R.A. of Eel. vs. Non Eel. (Mean % ± 95% C.I.)",
                            boxsize = 0.2,
                            hrzl_lines = list("3" = gpar(col="#444444")), 
@@ -369,14 +376,14 @@ bedwelltext <- rbind(top,new1)
 
 
 ```{r}
-png("forestbedwell.png", width= 8 , height=11, units="in", res=300)
+png("forestbedwell200.png", width= 8 , height=11, units="in", res=300)
 
 forestbedwell <- forestplot(bedwelltext, padded$Hab_diff, padded$lower, padded$upper,
                            zero= 0, 
                            txt_gp= fpTxtGp(cex= 1, xlab = gpar(cex=0.9), ticks = gpar(cex=0.75)), 
                            col=fpColors(box="royalblue",line="darkblue"), 
                            lineheight = "auto",
-                           title = "Bedwell",
+                           title = "Bedwell > 200 ind.",
                            xlab= "Diff. in R.A. of Eel. vs. Non Eel. (Mean % ± 95% C.I.)",
                            boxsize = 0.2,
                            hrzl_lines = list("3" = gpar(col="#444444")), 
